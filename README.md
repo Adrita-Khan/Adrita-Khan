@@ -15,15 +15,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Exoplanet Detection, Relationships among the Black Hole Mass, the Total Galactic Mass, and the Bulge Galactic Mass and more**
+- 🔭 I’m currently working on: **Exoplanet Detection, Relationships among the Black Hole Mass, the Total Galactic Mass, and the Bulge Galactic Mass and more**
 
-- 🌱 I’m currently learning **Python, MATLAB and C++**
+- 🌱 I’m currently learning: **Python, MATLAB and C++**
 
-- 👯 I’m looking to collaborate on **projects related to Computational Astrophysics**
+- 👯 I’m looking to collaborate on: **projects related to Computational Astrophysics**
 
-- 📫 How to reach me **adrita.khan.official@gmail.com**
+- 📫 How to reach me: **adrita.khan.official@gmail.com**
 
-- ⚡ Fun fact **I love making doodles when I get free time**
+- ⚡ Fun fact: **I love making doodles when I get free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
