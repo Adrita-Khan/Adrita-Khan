@@ -4,7 +4,10 @@
 <h1 align="center">Greetings everyone! I am Adrita Khan.</h1>
 <h3 align="center">A passionate and dedicated Physics graduate with a minor in Astronomy.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif">
+
+<img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="adrita-khan" /> </p>
 
