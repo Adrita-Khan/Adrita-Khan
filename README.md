@@ -40,7 +40,9 @@ I'm fluent in Bengali and English, with working proficiency in Hindi/Urdu and a 
 
 With my comprehensive educational background, strong technical skills, and a passion for teaching and research, I'm dedicated to making a significant impact in the fields of physics and astronomy. I'm always open to engaging discussions and eager to share my insights and knowledge to contribute positively to our collective understanding of these captivating disciplines. Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate. 🤝
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif">
+
+<img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="adrita-khan" /> </p>
 
