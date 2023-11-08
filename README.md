@@ -1,11 +1,11 @@
-@@ -1,16 +1,22 @@
+
 [![MasterHead](https:https://www.behance.net/gallery/58389741/Girls-Physics-BuzzFeed)](https://Adrita-Khan.github.io)
 
 <h1 align="center">Hi 👋, I'm Adrita Khan</h1>
 <h1 align="center">Greetings everyone! I am Adrita Khan.</h1>
 <h3 align="center">A passionate and dedicated Physics graduate with a minor in Astronomy.</h3>
 
-img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/woman-observing-celestial-bodies-semi-flat-color-vector-character_30741837.htm"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="adrita-khan" /> </p>
 
