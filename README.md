@@ -6,7 +6,7 @@
 
 # About Me
 
-<img align="center" alt="Coding" width="400" src="https://drive.google.com/file/d/1HxPrf0H7Kog2UwZv-rLmQ5MDmy2-r_39/view?usp=sharing">
+
 
 
 
@@ -65,6 +65,7 @@ With my comprehensive educational background, strong technical skills, and a pas
 - 📫 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)**
 
 - ⚡ Fun fact **I love make doodles when I get free time**
+<img align="center" alt="Coding" width="400" src="https://drive.google.com/file/d/1HxPrf0H7Kog2UwZv-rLmQ5MDmy2-r_39/view?usp=sharing">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
