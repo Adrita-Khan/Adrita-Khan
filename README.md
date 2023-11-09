@@ -6,6 +6,10 @@
 
 # About Me
 
+<img align="center" alt="Coding" width="400" src="https://wifflegif.com/gifs/552847-spiral-galaxy-astronomy-gif">
+
+
+
 👋 Hi there! I'm a Physics 🎓 graduate with a minor in Astronomy 🔭 from Universiti Sains Malaysia (University of Science Malaysia). My journey through the world of science and data has equipped me with a diverse skill set, ranging from proficiency in multiple programming languages to the intricacies of data analysis 🔬 and data visualization 📊.
 
 ## Academic Pursuits
