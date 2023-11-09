@@ -32,7 +32,7 @@ My programming language proficiency includes Python 🐍, Julia, MATLAB, Wolfram
 
 ## Lifelong Learning
 
-I'm a committed lifelong learner, continuously seeking opportunities to expand my knowledge and skills. I've completed several autodidactic courses, covering diverse topics like teaching with technology, modern physics, thermodynamics, and data-driven astronomy. My commitment to learning is underscored by my IELTS score of 7.5, with a notable speaking band score.
+I'm a committed lifelong learner, continuously seeking opportunities to expand my knowledge and skills. I've completed several autodidactic courses, covering diverse topics like teaching with technology, modern physics, thermodynamics, and data-driven astronomy. 
 
 ## Beyond Academics
 
