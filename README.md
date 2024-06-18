@@ -74,7 +74,6 @@ With my comprehensive educational background, strong technical skills, and a pas
 <a href="https://twitter.com/adrita_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrita_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adrita-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrita-khan" height="30" width="40" /></a>
 <a href="https://kaggle.com/adritakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adritakhan" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61551949391253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61551949391253" height="30" width="40" /></a>
 <a href="https://medium.com/@adrita-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adrita-khan" height="30" width="40" /></a>
 </p>
 
