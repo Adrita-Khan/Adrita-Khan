@@ -49,10 +49,10 @@ Please feel free to reach out to me for any questions or discussions you may hav
 
 - 🔭 I’m currently working on **multiple projects on Astronomy and Astrophysics (e.g Exoplanet Detection, Signal Processing, ML Applications and more)**
 - 🌌 I’m currently learning: **Python, Julia, MATLAB and C++**
-- 🤝 I’m looking to collaborate on **projects related to Computational Astrophysics**
+- 🤝 I’m looking to collaborate on **projects related to Computational Astrophysics and Data-Driven Astonomy**
 - 💬 Ask me about: **anything related to my field and I would love to assist**
 - 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)**
-- ✏️ Fun fact **I love making doodles when I get free time**
+- ✏️ Fun fact: **I love making doodles when I get free time**
 
 <p><img align="center" alt="Coding" width="400" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif"></p>
 
