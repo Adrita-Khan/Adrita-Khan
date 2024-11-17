@@ -78,10 +78,6 @@ Please feel free to reach out to me for any questions or discussions you may hav
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="adrita-khan" />
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -137,7 +133,10 @@ Please feel free to reach out to me for any questions or discussions you may hav
   </a>
 </p>
 
-
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="adrita-khan" />
+</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrita-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
