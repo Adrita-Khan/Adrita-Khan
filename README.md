@@ -106,7 +106,12 @@ Please feel free to reach out to me for any questions or discussions you may hav
 
 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adrita-khan.adrita-khan)
+## Support Me
+
+If you like my work, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7941E?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
+
 
 
 
