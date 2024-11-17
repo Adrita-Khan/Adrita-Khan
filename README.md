@@ -78,6 +78,7 @@ Please feel free to reach out to me for any questions or discussions you may hav
   </a>
 </p>
 
+---
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
