@@ -79,16 +79,6 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 
 ## Achievements, Skills, Tools, and GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=adrita-khan&theme=gruvbox&no-frame=true&no-bg=true&column=4" 
-      alt="GitHub Trophies for adrita-khan" 
-      loading="lazy"
-      style="max-width: 100%; height: auto;"
-    />
-  </a>
-</p>
 
 <p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
