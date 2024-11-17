@@ -39,11 +39,11 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 ---
 ## Projects, Skills, and Fun Facts
 
-- 🔭 I’m currently working on *multiple projects* on *Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, ML Applications, and more)*
-- 🌌 I’m currently learning: *Python, Julia, MATLAB, and C++*
-- 🤝 I’m looking to collaborate on projects related to *Computational Physics and Data-Driven Astronomy*
-- 💬 Ask me about *anything* related to my field, and I would love to assist
-- ✏️ Fun fact: *I love making doodles when I get free time* 🖍️🎨🖌️
+- 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, ML Applications, and more)***
+- 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
+- 🤝 I’m looking to collaborate on projects related to ***Computational Physics and Data-Driven Astronomy***
+- 💬 Ask me about ***anything*** related to my field, and I would love to assist
+- ✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️
 
 <p>
   <img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
