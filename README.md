@@ -134,6 +134,8 @@ Please feel free to reach out to me for any questions or discussions you may hav
   </a>
 </p>
 
+---
+
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="adrita-khan" />
