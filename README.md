@@ -28,7 +28,7 @@ My broad research interests span a diverse range of specific areas, including:
 - *Astroinformatics*
 - *Machine Learning in Astrophysics*
 - *Cosmological Simulations*
-- *Computational Astrophysics*
+- *Computational Physics*
 - *Astrophotonics*
 - *Instrumentation and Observational Techniques*
 - *Interdisciplinary Research*
