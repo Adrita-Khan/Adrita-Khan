@@ -84,7 +84,7 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 </p>
 
 ---
-
+## Achievements, Skills, Tools, and GitHub Stats
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
