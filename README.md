@@ -34,7 +34,75 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 
 Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate. 🤝
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Enhanced Image Layout</title>
+  <style>
+    /* Container styling */
+    .image-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px; /* Increased gap for better spacing */
+      flex-wrap: wrap; /* Allows images to wrap on smaller screens */
+      padding: 20px;
+      background-color: #f0f4f8; /* Light background for contrast */
+    }
 
+    /* Image styling */
+    .image-container img {
+      width: 100%;
+      max-width: 400px; /* Ensures images don't exceed 400px */
+      height: auto;
+      border-radius: 12px; /* Rounded corners for aesthetics */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    /* Hover effects for interactivity */
+    .image-container img:hover {
+      transform: scale(1.05);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 850px) {
+      .image-container {
+        gap: 15px;
+      }
+
+      .image-container img {
+        max-width: 350px;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .image-container {
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      .image-container img {
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="image-container">
+    <img 
+      src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif" 
+      alt="Animated Coding Illustration 1">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" 
+      alt="Animated Coding Illustration 2">
+  </div>
+
+</body>
+</html>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
