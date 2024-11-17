@@ -141,16 +141,17 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 </p>
 
 ---
-
-<p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
+<h3 align="left" style="margin-bottom: 10px;">Github Profile Trophy:</h3>
+<p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=adrita-khan&theme=gruvbox&no-frame=true&no-bg=true&column=12" 
       alt="GitHub Trophies for adrita-khan" 
       loading="lazy"
-      style="height: auto; flex-shrink: 0; margin-right: 10px;"
+      style="height: 180px; flex-shrink: 0;"
     />
   </a>
 </p>
+
 
 ---
