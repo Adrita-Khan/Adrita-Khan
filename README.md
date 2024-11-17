@@ -84,7 +84,7 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
     <img src="https://github-profile-trophy.vercel.app/?username=adrita-khan" alt="adrita-khan" />
   </a>
 </p>
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
