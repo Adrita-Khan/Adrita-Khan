@@ -53,13 +53,6 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate. 🤝
 - 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)** 
 
-<p align="left">
-  <a href="https://twitter.com/adrita_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/adrita_?logo=twitter&style=for-the-badge" alt="adrita_" />
-  </a>
-</p>
-
-
 <p>
   <img align="center" alt="Coding" width="400" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
 </p>
