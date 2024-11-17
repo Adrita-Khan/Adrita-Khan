@@ -12,7 +12,9 @@ I am Adrita 🌜 🌠 🔭
 </p>
 
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
-> — Jordan Peterson (## Listen to "When You Wish Upon A Star" by Cynthia Erivo
+> — Jordan Peterson
+
+(## Listen to "When You Wish Upon A Star" by Cynthia Erivo
 
 [![When You Wish Upon A Star](https://i.scdn.co/image/ab67616d0000b273e4d1e4e4e4e4e4e4e4e4e4e4)](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf))
 
