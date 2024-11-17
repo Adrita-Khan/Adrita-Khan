@@ -80,6 +80,8 @@ Please feel free to reach out to me for any questions or discussions you may hav
   <a href="https://medium.com/@adrita-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adrita-khan" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -104,6 +106,7 @@ Please feel free to reach out to me for any questions or discussions you may hav
 
 
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adrita-khan.adrita-khan)
 
 
 
