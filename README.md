@@ -14,10 +14,6 @@ I am Adrita 🌜 🌠 🔭
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Jordan Peterson
 
-(## Listen to "When You Wish Upon A Star" by Cynthia Erivo
-
-[![When You Wish Upon A Star](https://i.scdn.co/image/ab67616d0000b273e4d1e4e4e4e4e4e4e4e4e4e4)](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf))
-
 I am **Adrita Khan**, a graduate of the University of Science, Malaysia, with a major in **Physics** and a minor in **Astronomy**. As a committed researcher and aspiring astrophysicist, I am eager to pursue my **Ph.D.** and make meaningful contributions to the forefront of research in **Astronomy and Astrophysics**.
 
 My broad research interests span a diverse range of specific areas, including:
