@@ -77,14 +77,14 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 
 ---
 
+## Achievements, Skills, Tools, and GitHub Stats
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=adrita-khan" alt="adrita-khan" />
   </a>
 </p>
 
----
-## Achievements, Skills, Tools, and GitHub Stats
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
