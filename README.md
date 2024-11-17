@@ -40,13 +40,13 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 - 🌌 I’m currently learning: **Python, Julia, MATLAB, and C++**
 - 🤝 I’m looking to collaborate on projects related to **Computational Physics and Data-Driven Astronomy**
 - 💬 Ask me about **anything** related to my field, and I would love to assist
-- 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)**
 - ✏️ Fun fact: **I love making doodles when I get free time** 🖍️🎨🖌️
 
 
 ## Collaboration and Contact
 
 Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate. 🤝
+- 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)**
 
 <p>
   <img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
