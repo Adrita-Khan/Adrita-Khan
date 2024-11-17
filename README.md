@@ -47,10 +47,10 @@ Please feel free to reach out to me for any questions or discussions you may hav
   <a href="https://twitter.com/adrita_" target="blank"><img src="https://img.shields.io/twitter/follow/adrita_?logo=twitter&style=for-the-badge" alt="adrita_" /></a>
 </p>
 
-- 🔭 I’m currently working on **multiple projects on Astronomy and Astrophysics (e.g Exoplanet Detection, Signal Processing, ML Applications and more)**
+- 🔭 I’m currently working on **multiple projects** on **Astronomy and Astrophysics (e.g Exoplanet Detection, Signal Processing, ML Applications and more)**
 - 🌌 I’m currently learning: **Python, Julia, MATLAB and C++**
-- 🤝 I’m looking to collaborate on **projects related to Computational Astrophysics and Data-Driven Astonomy**
-- 💬 Ask me about: **anything related to my field and I would love to assist**
+- 🤝 I’m looking to collaborate on projects related to **Computational Physics and Data-Driven Astonomy**
+- 💬 Ask me about: **anything** related to my field and I would love to assist
 - 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)**
 - ✏️ Fun fact: **I love making doodles when I get free time**
 
