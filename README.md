@@ -77,7 +77,7 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 
 ---
 
-## Achievements, Skills, Tools, and GitHub Stats
+## Activity Highlights, Tools, and Stats
 
 
 <p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
