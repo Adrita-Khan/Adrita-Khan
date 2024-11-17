@@ -153,5 +153,18 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
   </a>
 </p>
 
+<!-- HTML -->
+<div class="github-trophies">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" aria-label="GitHub Profile Trophies for adrita-khan">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=adrita-khan&theme=gruvbox&no-frame=true&no-bg=true&column=12" 
+      alt="GitHub Trophies for adrita-khan" 
+      loading="lazy"
+      class="trophy-image"
+    />
+  </a>
+</div>
+
+
 
 ---
