@@ -6,6 +6,9 @@
 
 <p><img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" /></p>
 
+> *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
+> — Jordan Peterson
+
 I am **Adrita Khan**, a graduate of the University of Science, Malaysia, with a major in **Physics** and a minor in **Astronomy**. As a committed researcher and aspiring astrophysicist, I am eager to pursue my **Ph.D.** and make meaningful contributions to the forefront of research in **Astronomy and Astrophysics**.
 
 My broad research interests span a diverse range of specific areas, including:
