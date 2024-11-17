@@ -80,19 +80,6 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 ## Activity Highlights, Tools, and Stats
 
 
-<p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=adrita-khan&theme=gruvbox&no-frame=true&no-bg=true&column=12" 
-      alt="GitHub Trophies for adrita-khan" 
-      loading="lazy"
-      style="height: auto; flex-shrink: 0; margin-right: 10px;"
-    />
-  </a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -151,6 +138,19 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrita-khan&" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=adrita-khan&theme=gruvbox&no-frame=true&no-bg=true&column=12" 
+      alt="GitHub Trophies for adrita-khan" 
+      loading="lazy"
+      style="height: auto; flex-shrink: 0; margin-right: 10px;"
+    />
+  </a>
 </p>
 
 ---
