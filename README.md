@@ -104,7 +104,6 @@ Please feel free to reach out to me for any questions or discussions you may hav
 
 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adrita-khan.adrita-khan)
 
 
 
