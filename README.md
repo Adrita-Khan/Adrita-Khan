@@ -40,6 +40,11 @@ Please feel free to reach out to me for any questions or discussions you may hav
     <img alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif">
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
+    <img alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif">
+</div>
+
 
 
 <p><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif"></p>
