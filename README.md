@@ -51,7 +51,7 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 ---
 ## Collaboration and Contact
 
-Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate. 🤝
+*Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate.* 🤝
 - 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)** 
 
 <p>
