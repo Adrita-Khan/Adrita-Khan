@@ -36,6 +36,14 @@ My broad research interests span a diverse range of specific areas, including:
 
 I am actively seeking **Master's and Ph.D.** opportunities, with a strong commitment to continuous learning and skill development, especially in the **STEM** (Science, Technology, Engineering, and Mathematics) fields. I believe in the necessity of constantly expanding my knowledge to keep pace with the latest advancements in the field.
 
+- 🔭 I’m currently working on **multiple projects** on **Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, ML Applications, and more)**
+- 🌌 I’m currently learning: **Python, Julia, MATLAB, and C++**
+- 🤝 I’m looking to collaborate on projects related to **Computational Physics and Data-Driven Astronomy**
+- 💬 Ask me about **anything** related to my field, and I would love to assist
+- 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)**
+- ✏️ Fun fact: **I love making doodles when I get free time** 🖍️🎨🖌️
+
+
 ## Collaboration and Contact
 
 Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate. 🤝
@@ -61,12 +69,6 @@ Please feel free to reach out to me for any questions or discussions you may hav
   </a>
 </p>
 
-- 🔭 I’m currently working on **multiple projects** on **Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, ML Applications, and more)**
-- 🌌 I’m currently learning: **Python, Julia, MATLAB, and C++**
-- 🤝 I’m looking to collaborate on projects related to **Computational Physics and Data-Driven Astronomy**
-- 💬 Ask me about **anything** related to my field, and I would love to assist
-- 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)**
-- ✏️ Fun fact: **I love making doodles when I get free time** 🖍️🎨🖌️
 
 <p>
   <img align="center" alt="Coding" width="400" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
