@@ -40,6 +40,24 @@ Please feel free to reach out to me for any questions or discussions you may hav
 </div>
 
 
+<div class="image-container">
+    <img alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif" class="image">
+    <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" class="image">
+</div>
+
+<style>
+    .image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .image {
+        margin-right: 10px;
+    }
+    .image:last-child {
+        margin-right: 0;
+    }
+</style>
 
 
 
