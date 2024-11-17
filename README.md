@@ -85,6 +85,7 @@ Please feel free to reach out to me for any questions or discussions you may hav
   </a>
 </p>
 
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
