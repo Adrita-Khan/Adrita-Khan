@@ -52,6 +52,18 @@ Please feel free to reach out to me for any questions or discussions you may hav
 
 <p><img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"></p>
 
+
+
+
+
+<!-- This code displays a profile views counter badge aligned to the left.
+     - The <p> tag with align="left" aligns the badge to the left side of the page.
+     - The <img> tag includes a dynamically generated image from komarev.com, which tracks profile views.
+     - The 'username' parameter specifies the GitHub username (in this case, "adrita-khan") for which views are tracked.
+     - The 'label' parameter customizes the text displayed (here, "Profile views").
+     - The 'color' parameter sets the badge color, using a hex code (here, "0e75b6" for a blue shade).
+     - The 'style' parameter sets the badge's appearance to "flat".
+-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="adrita-khan" />
 </p>
