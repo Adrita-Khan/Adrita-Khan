@@ -47,6 +47,7 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
   <img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 </p>
 
+---
 ## Collaboration and Contact
 
 Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate. 🤝
