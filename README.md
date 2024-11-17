@@ -97,3 +97,10 @@ Please feel free to reach out to me for any questions or discussions you may hav
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon
 
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrita-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrita-khan&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrita-khan&" alt="GitHub Streak" /></p>
