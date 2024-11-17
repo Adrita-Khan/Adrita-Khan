@@ -141,7 +141,7 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 </p>
 
 ---
-<h3 align="left" style="margin-bottom: 7px;">Github Profile Trophy:</h3>
+
 <p align="left" style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
