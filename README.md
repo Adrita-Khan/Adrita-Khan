@@ -6,7 +6,7 @@
 
 <p><img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" /></p>
 
-I am Adrita Khan, a graduate of the University of Science, Malaysia, with a major in Physics and a minor in Astronomy. As a committed researcher and aspiring astrophysicist, I am eager to pursue my Ph.D. and make meaningful contributions to the forefront of research in Astronomy and Astrophysics.
+I am **Adrita Khan**, a graduate of the University of Science, Malaysia, with a major in **Physics** and a minor in **Astronomy**. As a committed researcher and aspiring astrophysicist, I am eager to pursue my Ph.D. and make meaningful contributions to the forefront of research in Astronomy and Astrophysics.
 
 My broad research interests span a diverse range of specific areas, including:
 
@@ -25,7 +25,7 @@ My broad research interests span a diverse range of specific areas, including:
 - Instrumentation and Observational Techniques
 - Interdisciplinary Research
 
-I am actively seeking Master's and Ph.D. opportunities, with a strong commitment to continuous learning and skill development, especially in the STEM (Science, Technology, Engineering, and Mathematics) fields. I believe in the necessity of constantly expanding my knowledge to keep pace with the latest advancements in the field.
+I am actively seeking **Master's and Ph.D.** opportunities, with a strong commitment to continuous learning and skill development, especially in the STEM (Science, Technology, Engineering, and Mathematics) fields. I believe in the necessity of constantly expanding my knowledge to keep pace with the latest advancements in the field.
 
 ## Collaboration and Contact
 
