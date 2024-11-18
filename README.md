@@ -31,6 +31,8 @@ My broad research interests span a diverse range of specific areas, including:
 - *Computational Physics*
 - *Astrophotonics*
 - *Instrumentation and Observational Techniques*
+- *Materials Science*
+- *Nuclear physics*
 - *Interdisciplinary Research*
 
 I am actively seeking **Master's and Ph.D.** opportunities, with a strong commitment to continuous learning and skill development, especially in the **STEM** (Science, Technology, Engineering, and Mathematics) fields. I believe in the necessity of constantly expanding my knowledge to keep pace with the latest advancements in the field.
