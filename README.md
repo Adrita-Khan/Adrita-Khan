@@ -58,7 +58,8 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
   <img src="https://img.shields.io/badge/Computational%20Astrophysics-66c2a5?style=for-the-badge" alt="Computational Astrophysics">
   <img src="https://img.shields.io/badge/Big%20Data%20Analysis-d1e500?style=for-the-badge" alt="Big Data Analysis">
   <img src="https://img.shields.io/badge/Deep%20Learning-fdcdac?style=for-the-badge" alt="Deep Learning">
-  
+</p>
+
 - 🤝 I’m looking to collaborate on projects related to ***Computational Physics and Data-Driven Astronomy***
 - 💬 Ask me about ***anything*** related to my field, and I would love to assist
 - ✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️
