@@ -43,9 +43,6 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 - 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, ML Applications, and more)***
 - 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
 
-
-
-
 <h2>TECHNICAL SKILLS</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -61,6 +58,7 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
   <img src="https://img.shields.io/badge/Computational%20Astrophysics-66c2a5?style=for-the-badge" alt="Computational Astrophysics">
   <img src="https://img.shields.io/badge/Big%20Data%20Analysis-d1e500?style=for-the-badge" alt="Big Data Analysis">
   <img src="https://img.shields.io/badge/Deep%20Learning-fdcdac?style=for-the-badge" alt="Deep Learning">
+  
 - 🤝 I’m looking to collaborate on projects related to ***Computational Physics and Data-Driven Astronomy***
 - 💬 Ask me about ***anything*** related to my field, and I would love to assist
 - ✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️
