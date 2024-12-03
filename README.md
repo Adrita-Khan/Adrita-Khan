@@ -42,13 +42,36 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 
 - 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, ML Applications, and more)***
 - 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
+
+
+
+
+<h2>TECHNICAL SKILLS</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Numpy-66c2a5?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/Astropy-ffd700?style=for-the-badge" alt="Astropy">
+  <img src="https://img.shields.io/badge/Matplotlib-00a0e9?style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Scipy-8e44ad?style=for-the-badge" alt="Scipy">
+  <img src="https://img.shields.io/badge/SQL-ff8c00?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Data%20Visualization-e5c494?style=for-the-badge" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Statistics-ccebc5?style=for-the-badge" alt="Statistics">
+  <img src="https://img.shields.io/badge/Mathematical%20Modeling-fdcdac?style=for-the-badge" alt="Mathematical Modeling">
+  <img src="https://img.shields.io/badge/Monte%20Carlo%20Simulations-5f6c71?style=for-the-badge" alt="Monte Carlo Simulations">
+  <img src="https://img.shields.io/badge/Computational%20Astrophysics-66c2a5?style=for-the-badge" alt="Computational Astrophysics">
+  <img src="https://img.shields.io/badge/Big%20Data%20Analysis-d1e500?style=for-the-badge" alt="Big Data Analysis">
+  <img src="https://img.shields.io/badge/Deep%20Learning-fdcdac?style=for-the-badge" alt="Deep Learning">
 - 🤝 I’m looking to collaborate on projects related to ***Computational Physics and Data-Driven Astronomy***
 - 💬 Ask me about ***anything*** related to my field, and I would love to assist
 - ✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️
 
+
 <p>
   <img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 </p>
+
+
+
 
 ---
 ## Collaboration and Contact
