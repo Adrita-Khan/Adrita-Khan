@@ -43,7 +43,6 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 - 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, ML Applications, and more)***
 - 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
 
-<h2>TECHNICAL SKILLS</h2>
 
 <h2>TECHNICAL SKILLS</h2>
 <p>
