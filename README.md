@@ -44,6 +44,8 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 - 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
 
 <h2>TECHNICAL SKILLS</h2>
+
+<h2>TECHNICAL SKILLS</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Numpy-66c2a5?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
@@ -58,6 +60,20 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
   <img src="https://img.shields.io/badge/Computational%20Astrophysics-66c2a5?style=for-the-badge" alt="Computational Astrophysics">
   <img src="https://img.shields.io/badge/Big%20Data%20Analysis-d1e500?style=for-the-badge" alt="Big Data Analysis">
   <img src="https://img.shields.io/badge/Deep%20Learning-fdcdac?style=for-the-badge" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Parallel%20Computing-1f77b4?style=for-the-badge" alt="Parallel Computing">
+  <img src="https://img.shields.io/badge/High%20Performance%20Computing-ff6347?style=for-the-badge" alt="High Performance Computing">
+  <img src="https://img.shields.io/badge/Quantum%20Computing-8a2be2?style=for-the-badge" alt="Quantum Computing">
+  <img src="https://img.shields.io/badge/Cosmology-8b008b?style=for-the-badge" alt="Cosmology">
+  <img src="https://img.shields.io/badge/General%20Relativity-00008b?style=for-the-badge" alt="General Relativity">
+  <img src="https://img.shields.io/badge/Numerical%20Methods-228b22?style=for-the-badge" alt="Numerical Methods">
+  <img src="https://img.shields.io/badge/Fluid%20Dynamics-20b2aa?style=for-the-badge" alt="Fluid Dynamics">
+  <img src="https://img.shields.io/badge/TensorFlow-ff5722?style=for-the-badge" alt="TensorFlow">
+</p>
+
+
+
+
+  
 </p>
 
 - 🤝 I’m looking to collaborate on projects related to ***Computational Physics and Data-Driven Astronomy***
