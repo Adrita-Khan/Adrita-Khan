@@ -38,13 +38,11 @@ My broad research interests span a diverse range of specific areas, including:
 I am actively seeking **Master's and Ph.D.** opportunities, with a strong commitment to continuous learning and skill development, especially in the **STEM** (Science, Technology, Engineering, and Mathematics) fields. I believe in the necessity of constantly expanding my knowledge to keep pace with the latest advancements in the field.
 
 ---
-## Projects, Skills, and Fun Facts
+## Projects, Technical Skills, and Fun Facts
 
-- 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, ML Applications, and more)***
+- 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, Band Gap Prediction,  Band Gap Prediction, ML Applications in Interdisciplinary Fields, and more)***
 - 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
 
-
-<h2>TECHNICAL SKILLS</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Numpy-66c2a5?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
