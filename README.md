@@ -44,31 +44,81 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 - 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
 
 <p>
-  <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Numpy-66c2a5?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-  <img src="https://img.shields.io/badge/Astropy-fbbf00?style=for-the-badge&logo=astronomy&logoColor=white" alt="Astropy">
-  <img src="https://img.shields.io/badge/Astroml-f48c06?style=for-the-badge&logo=python&logoColor=white" alt="Astroml">
-  <img src="https://img.shields.io/badge/Astroquery-e67e22?style=for-the-badge&logo=python&logoColor=white" alt="Astroquery">
-  <img src="https://img.shields.io/badge/Lightkurve-00a0e9?style=for-the-badge&logo=python&logoColor=white" alt="Lightkurve">
-  <img src="https://img.shields.io/badge/SkyPy-8a2be2?style=for-the-badge&logo=python&logoColor=white" alt="SkyPy">
-  <img src="https://img.shields.io/badge/Matplotlib-1f77b4?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Scipy-8e44ad?style=for-the-badge&logo=python&logoColor=white" alt="Scipy">
-  <img src="https://img.shields.io/badge/SQL-ff8c00?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Data%20Visualization-2ca02c?style=for-the-badge&logo=chartjs&logoColor=white" alt="Data Visualization">
-  <img src="https://img.shields.io/badge/Statistics-ff69b4?style=for-the-badge&logo=chartjs&logoColor=white" alt="Statistics">
-  <img src="https://img.shields.io/badge/Mathematical%20Modeling-fdcdac?style=for-the-badge" alt="Mathematical Modeling">
-  <img src="https://img.shields.io/badge/Monte%20Carlo%20Simulations-5f6c71?style=for-the-badge" alt="Monte Carlo Simulations">
-  <img src="https://img.shields.io/badge/Computational%20Astrophysics-66c2a5?style=for-the-badge" alt="Computational Astrophysics">
-  <img src="https://img.shields.io/badge/Big%20Data%20Analysis-d1e500?style=for-the-badge" alt="Big Data Analysis">
-  <img src="https://img.shields.io/badge/Deep%20Learning-fdcdac?style=for-the-badge" alt="Deep Learning">
-  <img src="https://img.shields.io/badge/Parallel%20Computing-1f77b4?style=for-the-badge" alt="Parallel Computing">
-  <img src="https://img.shields.io/badge/High%20Performance%20Computing-ff6347?style=for-the-badge" alt="High Performance Computing">
-  <img src="https://img.shields.io/badge/Quantum%20Computing-8a2be2?style=for-the-badge" alt="Quantum Computing">
-  <img src="https://img.shields.io/badge/Cosmology-8b008b?style=for-the-badge" alt="Cosmology">
-  <img src="https://img.shields.io/badge/General%20Relativity-00008b?style=for-the-badge" alt="General Relativity">
-  <img src="https://img.shields.io/badge/Numerical%20Methods-228b22?style=for-the-badge" alt="Numerical Methods">
-  <img src="https://img.shields.io/badge/Fluid%20Dynamics-20b2aa?style=for-the-badge" alt="Fluid Dynamics">
-  <img src="https://img.shields.io/badge/TensorFlow-ff5722?style=for-the-badge" alt="TensorFlow">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/Numpy-66c2a5?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+  </a>
+  <a href="https://astropy.org/">
+    <img src="https://img.shields.io/badge/Astropy-fbbf00?style=for-the-badge&logo=astronomy&logoColor=white" alt="Astropy">
+  </a>
+  <a href="https://astroml.org/">
+    <img src="https://img.shields.io/badge/Astroml-f48c06?style=for-the-badge&logo=python&logoColor=white" alt="Astroml">
+  </a>
+  <a href="https://astroquery.readthedocs.io/">
+    <img src="https://img.shields.io/badge/Astroquery-e67e22?style=for-the-badge&logo=python&logoColor=white" alt="Astroquery">
+  </a>
+  <a href="https://lightkurve.org/">
+    <img src="https://img.shields.io/badge/Lightkurve-00a0e9?style=for-the-badge&logo=python&logoColor=white" alt="Lightkurve">
+  </a>
+  <a href="https://skypy.readthedocs.io/">
+    <img src="https://img.shields.io/badge/SkyPy-8a2be2?style=for-the-badge&logo=python&logoColor=white" alt="SkyPy">
+  </a>
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-1f77b4?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+  </a>
+  <a href="https://scipy.org/">
+    <img src="https://img.shields.io/badge/Scipy-8e44ad?style=for-the-badge&logo=python&logoColor=white" alt="Scipy">
+  </a>
+  <a href="https://www.mysql.com/products/community/">
+    <img src="https://img.shields.io/badge/SQL-ff8c00?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  </a>
+  <a href="https://www.plotly.com/chart-studio/">
+    <img src="https://img.shields.io/badge/Data%20Visualization-2ca02c?style=for-the-badge&logo=chartjs&logoColor=white" alt="Data Visualization">
+  </a>
+  <a href="https://www.statsoft.com/">
+    <img src="https://img.shields.io/badge/Statistics-ff69b4?style=for-the-badge&logo=chartjs&logoColor=white" alt="Statistics">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Mathematical_modelling">
+    <img src="https://img.shields.io/badge/Mathematical%20Modeling-fdcdac?style=for-the-badge" alt="Mathematical Modeling">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Monte_Carlo_method">
+    <img src="https://img.shields.io/badge/Monte%20Carlo%20Simulations-5f6c71?style=for-the-badge" alt="Monte Carlo Simulations">
+  </a>
+  <a href="https://computational-astrophysics.github.io/">
+    <img src="https://img.shields.io/badge/Computational%20Astrophysics-66c2a5?style=for-the-badge" alt="Computational Astrophysics">
+  </a>
+  <a href="https://www.dataversity.net/">
+    <img src="https://img.shields.io/badge/Big%20Data%20Analysis-d1e500?style=for-the-badge" alt="Big Data Analysis">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/Deep%20Learning-fdcdac?style=for-the-badge" alt="Deep Learning">
+  </a>
+  <a href="https://www.openmp.org/">
+    <img src="https://img.shields.io/badge/Parallel%20Computing-1f77b4?style=for-the-badge" alt="Parallel Computing">
+  </a>
+  <a href="https://www.hpcwire.com/">
+    <img src="https://img.shields.io/badge/High%20Performance%20Computing-ff6347?style=for-the-badge" alt="High Performance Computing">
+  </a>
+  <a href="https://quantum-computing.ibm.com/">
+    <img src="https://img.shields.io/badge/Quantum%20Computing-8a2be2?style=for-the-badge" alt="Quantum Computing">
+  </a>
+  <a href="https://www.cosmos.esa.int/">
+    <img src="https://img.shields.io/badge/Cosmology-8b008b?style=for-the-badge" alt="Cosmology">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/General_relativity">
+    <img src="https://img.shields.io/badge/General%20Relativity-00008b?style=for-the-badge" alt="General Relativity">
+  </a>
+  <a href="https://www.sandia.gov/research/numerical-methods/">
+    <img src="https://img.shields.io/badge/Numerical%20Methods-228b22?style=for-the-badge" alt="Numerical Methods">
+  </a>
+  <a href="https://fluiddynamics.oxfordre.com/">
+    <img src="https://img.shields.io/badge/Fluid%20Dynamics-20b2aa?style=for-the-badge" alt="Fluid Dynamics">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-ff5722?style=for-the-badge" alt="TensorFlow">
+  </a>
 </p>
 
 
