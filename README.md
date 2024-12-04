@@ -49,6 +49,10 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
   <img src="https://img.shields.io/badge/Python-8da0cb?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Numpy-66c2a5?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
   <img src="https://img.shields.io/badge/Astropy-ffd700?style=for-the-badge" alt="Astropy">
+  <img src="https://img.shields.io/badge/Astroml-ffd700?style=for-the-badge" alt="Astroml">
+  <img src="https://img.shields.io/badge/Astroquery-ff6347?style=for-the-badge" alt="Astroquery">
+  <img src="https://img.shields.io/badge/Lightkurve-00a0e9?style=for-the-badge" alt="Lightkurve">
+  <img src="https://img.shields.io/badge/SkyPy-8a2be2?style=for-the-badge" alt="SkyPy">
   <img src="https://img.shields.io/badge/Matplotlib-00a0e9?style=for-the-badge" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Scipy-8e44ad?style=for-the-badge" alt="Scipy">
   <img src="https://img.shields.io/badge/SQL-ff8c00?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
