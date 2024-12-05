@@ -40,7 +40,7 @@ I am actively seeking **Master's and Ph.D.** opportunities, with a strong commit
 ---
 ## Projects, Technical Skills, and Fun Facts
 
-- 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, Band Gap Prediction,  Band Gap Prediction, ML Applications in Interdisciplinary Fields, and more)***
+- 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, Band Gap Prediction, ML Applications in Interdisciplinary Fields, and more)***
 - 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
 
 <p>
