@@ -14,7 +14,7 @@ I am Adrita 🌜 🌠 🔭
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Jordan Peterson
 
-Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia, with a major in Physics and a minor in Astronomy. I am currently admitted to North South University to pursue my M.Sc. in Applied Mathematics & Computational Science (AMCS).
+Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia, with a major in Physics and a minor in Astronomy. I am currently admitted to North South University to pursue my M.Sc. in Applied Mathematics and Computational Science (AMCS).
 
 
 My broad research interests span a diverse range of specific areas, including:
