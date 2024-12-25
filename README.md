@@ -14,7 +14,8 @@ I am Adrita 🌜 🌠 🔭
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Jordan Peterson
 
-I am **Adrita Khan**, a graduate of the University of Science, Malaysia, with a major in **Physics** and a minor in **Astronomy**. As a committed researcher and aspiring astrophysicist, I am eager to pursue my **Ph.D.** and make meaningful contributions to the forefront of research in **Astronomy and Astrophysics**.
+Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia, with a major in Physics and a minor in Astronomy. I am currently admitted to North South University to pursue my M.Sc. in Applied Mathematics & Computational Science (AMCS).
+
 
 My broad research interests span a diverse range of specific areas, including:
 
@@ -35,7 +36,9 @@ My broad research interests span a diverse range of specific areas, including:
 - *Nuclear physics*
 - *Interdisciplinary Research*
 
-I am actively seeking **Master's and Ph.D.** opportunities, with a strong commitment to continuous learning and skill development, especially in the **STEM** (Science, Technology, Engineering, and Mathematics) fields. I believe in the necessity of constantly expanding my knowledge to keep pace with the latest advancements in the field.
+I am actively seeking Ph.D. opportunities, driven by my passion for continuous learning and skill development—especially in the **STEM** (Science, Technology, Engineering, and Mathematics) fields. I believe in constantly expanding my knowledge to keep pace with the latest advancements in the field.
+
+
 
 ---
 ## Projects, Technical Skills, and Fun Facts
