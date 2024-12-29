@@ -17,7 +17,7 @@ I am Adrita 🌜 🌠 🔭
 Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia, with a major in Physics and a minor in Astronomy. I am currently admitted to North South University to pursue my M.Sc. in Applied Mathematics and Computational Science (AMCS).
 
 
-My broad research interests span a diverse range of specific areas, including:
+My broad research interests span:
 
 - *Stellar Astrophysics*
 - *Exoplanets*
