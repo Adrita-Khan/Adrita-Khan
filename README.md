@@ -135,6 +135,14 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 </p>
 
 
+---
+
+## Upcoming Goals for the Next 2 Years
+
+- **Complete an MSc in Applied Mathematics and Computational Science** at North South University.
+- **Get into a PhD program in Astrophysics or Computational Physics.**
+- **Collaborate with international research teams** on multiwavelength astronomy projects.
+- **Gain a solid grasp of the mathematical and computational aspects** in physics and astronomy before starting my PhD.
 
 
 ---
