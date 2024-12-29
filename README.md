@@ -137,7 +137,7 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 
 ---
 
-## Upcoming Goals for the Next 2 Years
+## Aspirations for the Next Two Years
 
 - *Complete MSc in **Applied Mathematics and Computational Science (AMCS)** at North South University (NSU).*
 - *Enroll in a PhD program in **Astrophysics or Computational Physics.***
