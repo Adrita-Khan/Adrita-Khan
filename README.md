@@ -36,7 +36,7 @@ My broad research interests span:
 - *Nuclear physics*
 - *Interdisciplinary Research*
 
-I am actively seeking Ph.D. opportunities, driven by my passion for continuous learning and skill development—especially in the **STEM** (Science, Technology, Engineering, and Mathematics) fields. I believe in constantly expanding my knowledge to keep pace with the latest advancements in the field.
+I am actively seeking Ph.D. opportunities, fueled by my passion for continuous learning and skill development, particularly in the fields of STEM (Science, Technology, Engineering, and Mathematics). I look forward to connecting, collaborating, and contributing to groundbreaking research in these areas. I am committed to expanding my knowledge and staying abreast of the latest advancements in the field.
 
 
 
