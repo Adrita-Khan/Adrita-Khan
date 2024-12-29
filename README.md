@@ -146,12 +146,13 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 
 ---
 
-## <span style="color:#1E90FF">Aspirations for the Next Two Years</span>
+## 🎯 Aspirations for the Next Two Years
 
-- <span style="color:#2E8B57">*Complete an MSc in **Applied Mathematics and Computational Science (AMCS)** at North South University (NSU).*</span>
-- <span style="color:#2E8B57">*Enroll in a PhD program in **Astrophysics or Computational Physics.***</span>
-- <span style="color:#2E8B57">*Collaborate with international research teams on **multiwavelength Astronomy projects**.*</span>
-- <span style="color:#2E8B57">*Build a strong foundation in the mathematical and computational principles of *Physics* and *Astronomy* prior to commencing my PhD.*</span>
+- 🎓 **Complete an MSc in _Applied Mathematics and Computational Science (AMCS)_ at North South University (NSU).**
+- 📚 **Enroll in a PhD program in _Astrophysics_ or _Computational Physics_.**
+- 🌐 **Collaborate with international research teams on _multiwavelength Astronomy projects_.**
+- 🧮 **Build a strong foundation in the mathematical and computational principles of _Physics_ and _Astronomy_ prior to commencing my PhD.**
+
 
 
 ---
