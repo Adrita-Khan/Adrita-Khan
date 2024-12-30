@@ -253,9 +253,9 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 
 ---
 
-### 📊 Contribution Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrita-Khan&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adrita-Khan&theme=dark)
+### 👀 Visitor Analytics
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Adrita-Khan.Adrita-Khan)
+
 
 
 
