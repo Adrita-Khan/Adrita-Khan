@@ -253,8 +253,6 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 
 ---
 
-### 🔄 GitHub Actions
-![GitHub Actions Status](https://github.com/Adrita-Khan/your-repo/workflows/your-workflow/badge.svg)
 
 
 
