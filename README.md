@@ -251,3 +251,9 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Adrita-Khan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+
+### ⏱️ Wakatime Stats
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&theme=dark)
+
+
