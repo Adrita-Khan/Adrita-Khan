@@ -246,3 +246,8 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrita-Khan&size_weight=0.5&count_weight=0.5&hide=vim%20script&title_color=fff&icon_color=FCAD61&text_color=9f9f9f&bg_color=00000000&hide_title=true&card_width=396" alt="Top Languages" style="display:block; margin-left:auto; margin-right:auto;" />
 </a>
 
+---
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Adrita-Khan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
