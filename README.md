@@ -254,6 +254,6 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 ---
 
 ### ⏱️ Wakatime Stats
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&theme=dark)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Adrita-Khan&layout=compact&theme=dark)
 
 
