@@ -42,7 +42,7 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 ---
 ## Projects, Technical Skills, and Fun Facts
 
-- 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Astrophysics (e.g., Exoplanet Detection, Signal Processing, Band Gap Prediction, ML Applications in Interdisciplinary Fields, and more)***
+- 🔭 I’m currently working on ***multiple projects*** on ***Astronomy and Physics (e.g., Exoplanet Detection, Signal Processing, Band Gap Prediction, ML Applications in Interdisciplinary Fields, and more)***
 - 🌌 I’m currently learning: ***Python, Julia, MATLAB, and C++***
 
 <p>
