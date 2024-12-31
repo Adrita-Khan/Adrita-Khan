@@ -255,6 +255,36 @@ I am actively pursuing Ph.D. opportunities, driven by a profound passion for con
 
 
 
+### 🔝 Top Contributed Repositories
+
+![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrita-Khan&layout=compact&theme=dark)
+
+
+### 🔝 Top Contributed Repositories
+
+![Top Repositories](https://github-readme-stats.vercel.app/api/repos/?username=Adrita-Khan&limit=5&theme=dark&hide=contribs)
+
+
+### 🔝 Top Contributed Repositories
+
+![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos_card?username=Adrita-Khan&theme=dark)
+
+
+### 🔝 Top Contributed Repositories
+
+<div id="top-repos"></div>
+
+<script>
+fetch('https://api.github.com/users/Adrita-Khan/repos?sort=stars&per_page=5')
+  .then(response => response.json())
+  .then(data => {
+    const repoList = data.map(repo => 
+      `<li><a href="${repo.html_url}">${repo.name}</a> - ⭐ ${repo.stargazers_count}</li>`
+    ).join('');
+    document.getElementById('top-repos').innerHTML = `<ul>${repoList}</ul>`;
+  })
+  .catch(error => console.error('Error fetching repositories:', error));
+</script>
 
 
 
