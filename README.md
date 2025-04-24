@@ -170,9 +170,7 @@ I am actively pursuing Ph.D. opportunities, particularly within the domains of S
   <a href="https://medium.com/@adrita-khan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adrita-khan" height="30" width="40" />
   </a>
-<a href="https://www.facebook.com/adrita.khan.official/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Adrita Khan Facebook" height="30" width="40" />
-</a>
+
 </p>
 
 ---
