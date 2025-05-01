@@ -18,6 +18,7 @@ Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, 
 
 My broad research interests span:
 
+- *Observational Cosmology*
 - *Stellar Astrophysics*
 - *Exoplanets*
 - *Radio Astronomy*
