@@ -14,7 +14,7 @@ I am Adrita 🌜 🌠 🔭
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Dr. Jordan B. Peterson
 
-Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. I am currently admitted to North South University (NSU) to pursue my M.Sc. in Applied Mathematics and Computational Science (AMCS). Additionally, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA), as well as the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB).  I was also appointed as a Graduate Teaching Assistant for Spring 2025 at North South University, responsible for PHY 107: Physics I and PHY 108: Physics II.
+Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. Currently, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA), as well as the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB).  
 
 My broad research interests span:
 
@@ -139,11 +139,7 @@ I am actively pursuing Ph.D. opportunities, particularly within the domains of S
 ---
 
 
-## 🎯 Aspirations for the Next Two Years
 
-- 📚 *Enroll in a PhD program in **Astrophysics** or **Computational Physics**.*
-- 🌐 *Collaborate with international research teams on **multiwavelength Astronomy projects**.*
-- 🧮 *Build a strong foundation in the mathematical and computational principles of **Physics** and **Astronomy** prior to commencing my PhD.*
 
 
 
