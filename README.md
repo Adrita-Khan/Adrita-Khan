@@ -136,12 +136,6 @@ I am actively pursuing MSc and Ph.D. opportunities, particularly within the doma
 </p>
 
 
----
-
-
-
-
-
 
 ---
 ## Collaboration and Contact
