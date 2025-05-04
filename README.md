@@ -36,7 +36,7 @@ My broad research interests span:
 - *Nuclear physics*
 - *Interdisciplinary Research*
 
-I am actively pursuing Ph.D. opportunities, particularly within the domains of Science, Technology, Engineering, and Mathematics (STEM). I am eager to engage in meaningful collaborations, contribute to impactful research, and advance knowledge in these fields. I am dedicated to expanding my knowledge and staying updated with the latest developments so I can make meaningful contributions to academia and beyond.
+I am actively pursuing MSc and Ph.D. opportunities, particularly within the domains of Science, Technology, Engineering, and Mathematics (STEM). I am eager to engage in meaningful collaborations, contribute to impactful research, and advance knowledge in these fields. I am dedicated to expanding my knowledge and staying updated with the latest developments so I can make meaningful contributions to academia and beyond.
 
 
 
