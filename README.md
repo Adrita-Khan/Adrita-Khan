@@ -9,7 +9,7 @@ I am Adrita 🌜 🌠 🔭
 </p>
 
 
-# About Me
+# About Me (Physics Graduate | Research Intern | Aspiring Astrophysicist)
 
 <p>
   <img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" />
