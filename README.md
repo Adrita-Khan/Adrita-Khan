@@ -45,6 +45,27 @@ Actively pursuing MSc and PhD opportunities in STEM fields, with a passion for i
 
 ---
 
+## 🔬 Research Interests in Astronomy & Astrophysics
+
+| **Research Domain**                      | **Specific Areas of Focus**                                                         |
+|------------------------------------------|--------------------------------------------------------------------------------------|
+| **Cosmology & Large-Scale Structure**   | • Dark matter and dark energy studies<br>• Cosmic microwave background analysis<br>• Galaxy formation and evolution<br>• Large-scale structure simulations |
+| **Stellar Astrophysics**                | • Stellar evolution and nucleosynthesis<br>• Binary star systems<br>• Stellar atmospheres and spectra<br>• Supernovae and stellar explosions |
+| **Planetary Science & Exoplanets**      | • Exoplanet detection and characterization<br>• Planetary atmospheres<br>• Habitability and astrobiology<br>• Solar system dynamics |
+| **Galactic Astronomy**                  | • Milky Way structure and dynamics<br>• Star formation regions<br>• Interstellar medium<br>• Galactic chemical evolution |
+| **Extragalactic Astronomy**             | • Active galactic nuclei and quasars<br>• Galaxy clusters and groups<br>• Galaxy morphology and dynamics<br>• Intergalactic medium |
+| **High-Energy Astrophysics**            | • Black holes and neutron stars<br>• Gamma-ray bursts<br>• X-ray astronomy<br>• Gravitational wave astronomy |
+| **Solar Physics**                       | • Solar magnetic fields<br>• Solar flares and coronal mass ejections<br>• Solar-terrestrial interactions<br>• Helioseismology |
+| **Multiwavelength Astronomy**           | • Radio astronomy and interferometry<br>• Infrared and submillimeter observations<br>• Optical and UV spectroscopy<br>• Space-based observations |
+| **Astrochemistry**                      | • Molecular clouds and star formation<br>• Prebiotic chemistry in space<br>• Dust grain physics<br>• Isotopic ratios in astronomical objects |
+| **Computational Astrophysics**          | • N-body simulations<br>• Magnetohydrodynamics modeling<br>• Radiative transfer calculations<br>• High-performance computing applications |
+| **Astroinformatics & Data Science**     | • Big data analysis in astronomy<br>• Machine learning for classification<br>• Time-series analysis<br>• Survey data mining |
+| **Instrumentation & Technology**        | • Telescope design and optimization<br>• Detector development<br>• Adaptive optics systems<br>• Astrophotonics and fiber optics |
+| **Interdisciplinary Research**          | • Astroparticle physics<br>• Astrogeology<br>• Space weather modeling<br>• Fundamental physics tests using astronomical observations |
+
+
+
+
 <div align="center">
 
 | **Observational Sciences** | **Computational Methods** | **Theoretical Physics** |
