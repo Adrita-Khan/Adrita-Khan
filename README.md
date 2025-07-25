@@ -5,11 +5,11 @@ Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 I am Adrita 🌜 🌠 🔭
 
 <p align="center">
-  <strong>Physics Graduate | Research Intern | Aspiring Astrophysicist</strong>
+  <small><strong>Physics Graduate | Research Intern | Aspiring Astrophysicist</strong></small>
 </p>
 
 
-# About Me (Physics Graduate | Research Intern | Aspiring Astrophysicist)
+# About Me 
 
 <p>
   <img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" />
