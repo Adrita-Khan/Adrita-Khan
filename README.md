@@ -23,7 +23,7 @@ I am Adrita 🌜 🌠 🔭
 ## 🎓 Academic Foundation
 - **BSc Physics** (Astronomy Minor) — Universiti Sains Malaysia (USM)
 - **Current Research Positions:**
-  - Research Intern, CASSA — Advancing astronomical research and space science
+  - Research Intern, CASSA (IUB) — Advancing astronomical research
   - Research Intern, CCDS (IUB) — Exploring computational approaches to complex scientific problems
 
 ## 🔬 Research Vision
