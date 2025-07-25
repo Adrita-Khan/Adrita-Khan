@@ -14,16 +14,29 @@ I am Adrita 🌜 🌠 🔭
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Dr. Jordan B. Peterson
 
-Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. Currently, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA), as well as the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB).  
+# Adrita Khan
 
-**🎓 Academic Background:**
-- **Graduate:** University of Science, Malaysia (USM) - Physics Major, Astronomy Minor
-- **Research Intern:** Center for Astronomy, Space Science, and Astrophysics (CASSA)
-- **Research Intern:** Center for Computational and Data Sciences (CCDS) at Independent University, Bangladesh (IUB)
+**Physics Graduate | Research Intern | Aspiring STEM Scholar**
 
-**🎯 Current Focus:**
-I am actively pursuing MSc and PhD opportunities in STEM fields, with a passion for interdisciplinary research that bridges theoretical physics, computational methods, and astronomical observations. I am eager to engage in meaningful collaborations, contribute to impactful research, and advance knowledge in these fields. I am dedicated to expanding my knowledge and staying updated with the latest developments so I can make meaningful contributions to academia and beyond.
+ Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. Currently, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA), as well as the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB).  
+ 
+## 🎓 Academic Foundation
+- **BSc Physics** (Astronomy Minor) — Universiti Sains Malaysia (USM)
+- **Current Research Positions:**
+  - Research Intern, CASSA — Advancing astronomical research and space science
+  - Research Intern, CCDS (IUB) — Exploring computational approaches to complex scientific problems
 
+## 🔬 Research Vision
+My work sits at the intersection of theoretical physics, computational modeling, and observational astronomy. I am passionate about leveraging advanced computational methods to unlock new insights in astrophysics and space science, bridging the gap between mathematical theory and empirical observation.
+
+## 🎯 Looking Ahead
+I am actively seeking MSc and PhD opportunities that will allow me to deepen my expertise in interdisciplinary STEM research. My goal is to contribute to groundbreaking discoveries while building collaborative relationships with fellow researchers who share a commitment to advancing our understanding of the universe.
+
+Whether exploring cosmic phenomena or developing innovative computational techniques, I'm driven by curiosity and the potential to make meaningful contributions to the scientific community.
+
+---
+
+*Open to research collaborations and graduate study opportunities in physics, astronomy, and computational sciences.*
 ---
 
 
