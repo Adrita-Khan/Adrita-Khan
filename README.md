@@ -18,23 +18,18 @@ Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, 
 
 My broad research interests span:
 
-- *Observational Cosmology*
-- *Stellar Astrophysics*
-- *Exoplanets*
-- *Radio Astronomy*
-- *Multiwavelength Astronomy*
-- *High-Energy Astrophysics*
-- *Astrochemistry*
-- *Solar Physics*
-- *Astroinformatics*
-- *Machine Learning in Astrophysics*
-- *Cosmological Simulations*
-- *Computational Physics*
-- *Astrophotonics*
-- *Instrumentation and Observational Techniques*
-- *Materials Science*
-- *Nuclear physics*
-- *Interdisciplinary Research*
+| **Category**                             | **Research Interests**                                                              |
+|------------------------------------------|--------------------------------------------------------------------------------------|
+| **Cosmology & Large-Scale Structure**    | - Observational Cosmology<br>- Cosmological Simulations                             |
+| **Stellar & Planetary Science**          | - Stellar Astrophysics<br>- Exoplanets                                              |
+| **Galactic & Extragalactic Astronomy**   | - Radio Astronomy<br>- High-Energy Astrophysics<br>- Multiwavelength Astronomy      |
+| **Solar & Space Physics**                | - Solar Physics                                                                     |
+| **Astrochemistry & Fundamental Physics** | - Astrochemistry<br>- Nuclear Physics                                               |
+| **Instrumentation & Techniques**         | - Instrumentation and Observational Techniques<br>- Astrophotonics                  |
+| **Computational & Data-Driven Methods**  | - Computational Physics<br>- Astroinformatics<br>- Machine Learning in Astrophysics |
+| **Materials & Applied Sciences**         | - Materials Science                                                                  |
+| **Interdisciplinary Approaches**         | - Interdisciplinary Research                                                         |
+
 
 I am actively pursuing MSc and Ph.D. opportunities, particularly within the domains of Science, Technology, Engineering, and Mathematics (STEM). I am eager to engage in meaningful collaborations, contribute to impactful research, and advance knowledge in these fields. I am dedicated to expanding my knowledge and staying updated with the latest developments so I can make meaningful contributions to academia and beyond.
 
