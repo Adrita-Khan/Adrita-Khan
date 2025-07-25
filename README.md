@@ -29,57 +29,21 @@ Actively pursuing MSc and PhD opportunities in STEM fields, with a passion for i
 
 ## 🔬 Broad Research Interests
 
-<p align="center">
+## 🔬 Broad Research Interests
 
-<table>
-  <thead>
-    <tr>
-      <th><strong>Category</strong></th>
-      <th><strong>Research Interests</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Cosmology & Large-Scale Structure</strong></td>
-      <td>Observational Cosmology<br>Cosmological Simulations</td>
-    </tr>
-    <tr>
-      <td><strong>Stellar & Planetary Science</strong></td>
-      <td>Stellar Astrophysics<br>Exoplanets</td>
-    </tr>
-    <tr>
-      <td><strong>Galactic & Extragalactic Astronomy</strong></td>
-      <td>Radio Astronomy<br>High-Energy Astrophysics<br>Multiwavelength Astronomy</td>
-    </tr>
-    <tr>
-      <td><strong>Solar & Space Physics</strong></td>
-      <td>Solar Physics</td>
-    </tr>
-    <tr>
-      <td><strong>Astrochemistry & Fundamental Physics</strong></td>
-      <td>Astrochemistry<br>Nuclear Physics</td>
-    </tr>
-    <tr>
-      <td><strong>Instrumentation & Techniques</strong></td>
-      <td>Instrumentation and Observational Techniques<br>Astrophotonics</td>
-    </tr>
-    <tr>
-      <td><strong>Computational & Data-Driven Methods</strong></td>
-      <td>Computational Physics<br>Astroinformatics<br>Machine Learning in Astrophysics</td>
-    </tr>
-    <tr>
-      <td><strong>Materials & Applied Sciences</strong></td>
-      <td>Materials Science</td>
-    </tr>
-    <tr>
-      <td><strong>Interdisciplinary Approaches</strong></td>
-      <td>Interdisciplinary Research</td>
-    </tr>
-  </tbody>
-</table>
+| **Category**                             | **Research Interests**                                                              |
+|------------------------------------------|--------------------------------------------------------------------------------------|
+| **Cosmology & Large-Scale Structure**    | - Observational Cosmology<br>- Cosmological Simulations                             |
+| **Stellar & Planetary Science**          | - Stellar Astrophysics<br>- Exoplanets                                              |
+| **Galactic & Extragalactic Astronomy**   | - Radio Astronomy<br>- High-Energy Astrophysics<br>- Multiwavelength Astronomy      |
+| **Solar & Space Physics**                | - Solar Physics                                                                     |
+| **Astrochemistry & Fundamental Physics** | - Astrochemistry<br>- Nuclear Physics                                               |
+| **Instrumentation & Techniques**         | - Instrumentation and Observational Techniques<br>- Astrophotonics                  |
+| **Computational & Data-Driven Methods**  | - Computational Physics<br>- Astroinformatics<br>- Machine Learning in Astrophysics |
+| **Materials & Applied Sciences**         | - Materials Science                                                                  |
+| **Interdisciplinary Approaches**         | - Interdisciplinary Research                                                         |
 
-</p>
-
+---
 
 <div align="center">
 
