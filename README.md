@@ -16,6 +16,13 @@ Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 
 Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. Currently, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA), as well as the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB).  
 
+**🎓 Academic Background:**
+- **Graduate:** University of Science, Malaysia (USM) - Physics Major, Astronomy Minor
+- **Research Intern:** Center for Astronomy, Space Science, and Astrophysics (CASSA)
+- **Research Intern:** Center for Computational and Data Sciences (CCDS) at Independent University, Bangladesh (IUB)
+
+**🎯 Current Focus:**
+Actively pursuing MSc and PhD opportunities in STEM fields, with a passion for interdisciplinary research that bridges theoretical physics, computational methods, and astronomical observations.
 
 ---
 My broad research interests span:
