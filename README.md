@@ -25,8 +25,10 @@ Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, 
 Actively pursuing MSc and PhD opportunities in STEM fields, with a passion for interdisciplinary research that bridges theoretical physics, computational methods, and astronomical observations.
 
 ---
-My broad research interests span:
 
+
+## 🔬 Broad Research Interests
+<div align="center">
 | **Category**                             | **Research Interests**                                                              |
 |------------------------------------------|--------------------------------------------------------------------------------------|
 | **Cosmology & Large-Scale Structure**    | - Observational Cosmology<br>- Cosmological Simulations                             |
@@ -39,7 +41,7 @@ My broad research interests span:
 | **Materials & Applied Sciences**         | - Materials Science                                                                  |
 | **Interdisciplinary Approaches**         | - Interdisciplinary Research                                                         |
 
-## 🔬 Research Interests
+</div>
 
 <div align="center">
 
