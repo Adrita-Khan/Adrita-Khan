@@ -1,10 +1,17 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://Adrita-Khan.io)
 
 <h1 align="center">
-Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">🌞
-I am Adrita 🌜 🌠 🔭
-  **Physics Graduate | Research Intern | Aspiring STEM Scholar**
+  Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
+
+<h2 align="center">
+  I am Adrita 🌜 🌠 🔭
+</h2>
+
+<p align="center">
+  <strong>Physics Graduate | Research Intern | Aspiring STEM Scholar</strong>
+</p>
+
 
 # About Me
 
@@ -15,7 +22,7 @@ I am Adrita 🌜 🌠 🔭
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Dr. Jordan B. Peterson
 
-# Adrita Khan
+
 
 **Physics Graduate | Research Intern | Aspiring STEM Scholar**
 
