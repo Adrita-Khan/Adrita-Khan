@@ -36,7 +36,7 @@ Whether exploring cosmic phenomena or developing innovative computational techni
 
 ---
 
-*Open to research collaborations and graduate study opportunities in physics, astronomy, and computational sciences.*
+**Open to research collaborations and graduate study opportunities in physics, astronomy, and computational sciences.**
 ---
 
 
