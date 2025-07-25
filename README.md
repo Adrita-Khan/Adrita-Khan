@@ -19,78 +19,7 @@ I am Adrita 🌜 🌠 🔭
 > — Dr. Jordan B. Peterson
 
 
-# Adrita Khan - Professional Summary
 
-## Personal Information
-| **Field** | **Details** |
-|-----------|-------------|
-| **Name** | Adrita Khan |
-| **Professional Title** | Physics Graduate \| Research Intern \| Aspiring Astrophysicist |
-| **Contact** | adrita.khan.official@gmail.com |
-| **Social Media** | [Twitter](https://twitter.com/adrita_), [LinkedIn](https://linkedin.com/in/adrita-khan), [Kaggle](https://kaggle.com/adritakhan), [Medium](https://medium.com/@adrita-khan) |
-
-## Educational Background
-| **Degree** | **Institution** | **Specialization** | **Status** |
-|------------|-----------------|-------------------|------------|
-| **BSc Physics** | Universiti Sains Malaysia (USM) | Astronomy Minor | Completed |
-
-## Current Research Positions
-| **Position** | **Institution** | **Department** | **Focus Area** |
-|--------------|-----------------|----------------|----------------|
-| **Research Intern** | Independent University, Bangladesh (IUB) | Center for Astronomy, Space Science, and Astrophysics (CASSA) | Astronomical Research |
-| **Research Intern** | Independent University, Bangladesh (IUB) | Center for Computational and Data Sciences (CCDS) | Computational Sciences |
-
-## Research Domains & Interests
-| **Major Domain** | **Key Focus Areas** | **Research Interests** |
-|------------------|---------------------|------------------------|
-| **Cosmology & Large-Scale Structure** | Dark matter/energy, CMB analysis, Galaxy formation | Observational Cosmology, Structure Formation |
-| **Stellar Astrophysics** | Stellar evolution, Binary systems, Supernovae | Stellar Evolution Modeling, Spectroscopy |
-| **Planetary Science & Exoplanets** | Exoplanet detection, Planetary atmospheres, Habitability | Exoplanet Discovery, Atmospheric Modeling |
-| **Computational Astrophysics** | N-body simulations, MHD modeling, Radiative transfer | Numerical Simulations, Algorithm Development |
-| **Astroinformatics & Data Science** | Big data analysis, Machine learning, Time-series analysis | Big Data Analytics, ML Applications |
-| **High-Energy Astrophysics** | Black holes, Neutron stars, Gamma-ray bursts | Compact Objects, Multi-messenger Astronomy |
-
-## Technical Skills & Programming Languages
-| **Category** | **Technologies/Skills** |
-|--------------|-------------------------|
-| **Programming Languages** | Python, Julia, MATLAB, C++, SQL |
-| **Python Libraries** | NumPy, Astropy, AstroML, Astroquery, Lightkurve, SkyPy, Matplotlib, SciPy |
-| **Specialized Skills** | Data Visualization, Statistics, Mathematical Modeling, Monte Carlo Simulations |
-| **Advanced Computing** | Parallel Computing, High Performance Computing, Quantum Computing |
-| **Physics/Astronomy** | Computational Astrophysics, Cosmology, General Relativity, Fluid Dynamics |
-| **Machine Learning** | Deep Learning, TensorFlow, Big Data Analysis |
-| **Development Tools** | Git, Docker, Linux, Bash |
-
-## Current Projects
-| **Project Type** | **Description** |
-|------------------|-----------------|
-| **Exoplanet Detection** | Advanced detection and characterization methods |
-| **Signal Processing** | Astronomical signal analysis and processing |
-| **Band Gap Prediction** | Computational materials science applications |
-| **ML Applications** | Machine learning in interdisciplinary scientific fields |
-
-## Career Goals
-| **Objective** | **Details** |
-|---------------|-------------|
-| **Immediate Goals** | Seeking MSc and PhD opportunities in interdisciplinary STEM research |
-| **Long-term Vision** | Contributing to groundbreaking discoveries in astrophysics and space science |
-| **Research Focus** | Bridging theoretical physics, computational modeling, and observational astronomy |
-| **Collaboration** | Building relationships with fellow researchers in physics, astronomy, and computational sciences |
-
-## Professional Interests
-| **Area** | **Specific Focus** |
-|----------|-------------------|
-| **Research Collaboration** | Computational Physics and Data-Driven Astronomy |
-| **Academic Pursuits** | Graduate studies in Physics, Astronomy, and Computational Sciences |
-| **Interdisciplinary Work** | Combining theoretical physics with computational methods |
-| **Innovation** | Developing new computational techniques for astrophysical research |
-
-## Personal Interests
-| **Activity** | **Description** |
-|--------------|-----------------|
-| **Creative Pursuits** | Making doodles during free time |
-| **Professional Development** | Continuous learning in programming and computational methods |
-| **Community Engagement** | Open to discussions and collaborations in scientific fields |
 
 
 
