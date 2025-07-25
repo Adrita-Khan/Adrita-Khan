@@ -27,8 +27,8 @@ Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, 
 ## 🎓 Academic Foundation
 > - **BSc Physics** (Major), Astronomy (Minor) — Universiti Sains Malaysia (USM)
 >  - **Current Research Positions:**
-  - Research Intern, CASSA (IUB) — Advancing astronomical research
-  - Research Intern, CCDS (IUB) — Exploring computational approaches to complex scientific problems
+  > - Research Intern, CASSA (IUB) — Advancing astronomical research
+  > - Research Intern, CCDS (IUB) — Exploring computational approaches to complex scientific problems
 
 ## 🔬 Research Vision
 My work sits at the intersection of theoretical physics, computational modeling, and observational astronomy. I am passionate about leveraging advanced computational methods to unlock new insights in astrophysics and space science, bridging the gap between mathematical theory and empirical observation.
