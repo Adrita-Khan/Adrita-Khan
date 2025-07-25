@@ -22,7 +22,7 @@ Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, 
 - **Research Intern:** Center for Computational and Data Sciences (CCDS) at Independent University, Bangladesh (IUB)
 
 **🎯 Current Focus:**
-Actively pursuing MSc and PhD opportunities in STEM fields, with a passion for interdisciplinary research that bridges theoretical physics, computational methods, and astronomical observations.
+I am actively pursuing MSc and PhD opportunities in STEM fields, with a passion for interdisciplinary research that bridges theoretical physics, computational methods, and astronomical observations. I am eager to engage in meaningful collaborations, contribute to impactful research, and advance knowledge in these fields. I am dedicated to expanding my knowledge and staying updated with the latest developments so I can make meaningful contributions to academia and beyond.
 
 ---
 
@@ -45,7 +45,7 @@ Actively pursuing MSc and PhD opportunities in STEM fields, with a passion for i
 | **Instrumentation & Technology**        | • Telescope design and optimization<br>• Detector development<br>• Adaptive optics systems<br>• Astrophotonics and fiber optics | • Instrument Development<br>• Observational Techniques<br>• Technology Innovation |
 | **Interdisciplinary Research**          | • Astroparticle physics<br>• Astrogeology<br>• Space weather modeling<br>• Fundamental physics tests using astronomical observations | • Cross-disciplinary Studies<br>• Fundamental Physics<br>• Applied Astrophysics |
 
-I am actively pursuing MSc and Ph.D. opportunities, particularly within the domains of Science, Technology, Engineering, and Mathematics (STEM). I am eager to engage in meaningful collaborations, contribute to impactful research, and advance knowledge in these fields. I am dedicated to expanding my knowledge and staying updated with the latest developments so I can make meaningful contributions to academia and beyond.
+
 
 ---
 
