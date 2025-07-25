@@ -41,7 +41,6 @@ Open to research collaborations and graduate study opportunities in physics, ast
 
 Whether exploring cosmic phenomena or developing innovative computational techniques, I'm driven by curiosity and the potential to make meaningful contributions to the scientific community.
 
----
 
 
 ---
