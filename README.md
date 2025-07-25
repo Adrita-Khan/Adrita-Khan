@@ -37,11 +37,13 @@ My work sits at the intersection of theoretical physics, computational modeling,
 ## 🎯 Looking Ahead
 I am actively seeking MSc and PhD opportunities that will allow me to deepen my expertise in interdisciplinary STEM research. My goal is to contribute to groundbreaking discoveries while building collaborative relationships with fellow researchers who share a commitment to advancing our understanding of the universe.
 
+Open to research collaborations and graduate study opportunities in physics, astronomy, and computational sciences.
+
 Whether exploring cosmic phenomena or developing innovative computational techniques, I'm driven by curiosity and the potential to make meaningful contributions to the scientific community.
 
 ---
 
-**Open to research collaborations and graduate study opportunities in physics, astronomy, and computational sciences.**
+
 ---
 
 
