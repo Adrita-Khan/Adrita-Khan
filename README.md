@@ -39,6 +39,22 @@ My broad research interests span:
 | **Materials & Applied Sciences**         | - Materials Science                                                                  |
 | **Interdisciplinary Approaches**         | - Interdisciplinary Research                                                         |
 
+## 🔬 Research Interests
+
+<div align="center">
+
+| **Observational Sciences** | **Computational Methods** | **Theoretical Physics** |
+|:---------------------------:|:--------------------------:|:------------------------:|
+| 🌟 Stellar Astrophysics | 🤖 Machine Learning in Astrophysics | ⚛️ Nuclear Physics |
+| 🪐 Exoplanet Detection | 💻 Cosmological Simulations | 🌌 General Relativity |
+| 📡 Radio Astronomy | 📊 Astroinformatics | 🔬 Materials Science |
+| ☀️ Solar Physics | 🧮 Computational Physics | 🌊 Fluid Dynamics |
+| 🌈 Multiwavelength Astronomy | 📈 Big Data Analysis | ⚡ High-Energy Astrophysics |
+| 🧪 Astrochemistry | 🔬 Instrumentation & Techniques | 🔗 Interdisciplinary Research |
+
+</div>
+
+---
 
 I am actively pursuing MSc and Ph.D. opportunities, particularly within the domains of Science, Technology, Engineering, and Mathematics (STEM). I am eager to engage in meaningful collaborations, contribute to impactful research, and advance knowledge in these fields. I am dedicated to expanding my knowledge and staying updated with the latest developments so I can make meaningful contributions to academia and beyond.
 
