@@ -178,21 +178,9 @@ Whether exploring cosmic phenomena or developing innovative computational techni
 ---
 
 
----
 
-## 🎨 Fun Facts & Personal Touch
 
-**✏️ Creative Side:** When I'm not exploring the cosmos through code, you'll find me making **doodles** and expressing creativity through art! 🖍️🎨🖌️
 
-**🌟 Philosophy:** *"The universe is not only stranger than we imagine, it is stranger than we can imagine"* - and I love being part of the journey to understand it better!
-
----
-
-<div align="center">
-  <img alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
-</div>
-
----
 
 <div align="center">
   <strong>🚀 Ready to explore the universe through data and computation! 🌌</strong>
