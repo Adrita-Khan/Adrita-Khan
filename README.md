@@ -160,6 +160,112 @@ Whether exploring cosmic phenomena or developing innovative computational techni
 
 ---
 
+# 🚀 About Me
+
+## 🔬 Current Focus & Projects
+🔭 **Working on:** Multiple cutting-edge projects in **Astronomy & Physics**
+- 🪐 **Exoplanet Detection** - Discovering worlds beyond our solar system
+- 📡 **Signal Processing** - Advanced data analysis techniques
+- 🔬 **Band Gap Prediction** - Materials science applications
+- 🤖 **ML Applications** - Machine learning in interdisciplinary research
+- 🌌 **And much more...**
+
+## 💻 Programming Languages & Learning Journey
+🌟 **Currently mastering:** Python | Julia | MATLAB | C++
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Core Programming & Data Science**
+<p>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"></a>
+  <a href="https://scipy.org/"><img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"></a>
+  <a href="https://www.mysql.com/products/community/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"></a>
+</p>
+
+### **Specialized Astronomy Tools**
+<p>
+  <a href="https://astropy.org/"><img src="https://img.shields.io/badge/Astropy-FF6B35?style=for-the-badge&logo=astronomy&logoColor=white" alt="Astropy"></a>
+  <a href="https://astroml.org/"><img src="https://img.shields.io/badge/AstroML-f48c06?style=for-the-badge&logo=python&logoColor=white" alt="Astroml"></a>
+  <a href="https://astroquery.readthedocs.io/"><img src="https://img.shields.io/badge/Astroquery-e67e22?style=for-the-badge&logo=python&logoColor=white" alt="Astroquery"></a>
+  <a href="https://lightkurve.org/"><img src="https://img.shields.io/badge/Lightkurve-00a0e9?style=for-the-badge&logo=python&logoColor=white" alt="Lightkurve"></a>
+  <a href="https://skypy.readthedocs.io/"><img src="https://img.shields.io/badge/SkyPy-8a2be2?style=for-the-badge&logo=python&logoColor=white" alt="SkyPy"></a>
+</p>
+
+### **Advanced Analytics & Visualization**
+<p>
+  <a href="https://www.plotly.com/chart-studio/"><img src="https://img.shields.io/badge/Data%20Visualization-2ca02c?style=for-the-badge&logo=chartjs&logoColor=white" alt="Data Visualization"></a>
+  <a href="https://www.statsoft.com/"><img src="https://img.shields.io/badge/Statistics-ff69b4?style=for-the-badge&logo=chartjs&logoColor=white" alt="Statistics"></a>
+  <a href="https://www.dataversity.net/"><img src="https://img.shields.io/badge/Big%20Data%20Analysis-d1e500?style=for-the-badge" alt="Big Data Analysis"></a>
+</p>
+
+### **Machine Learning & AI**
+<p>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"></a>
+</p>
+
+### **Computational & Mathematical Methods**
+<p>
+  <a href="https://en.wikipedia.org/wiki/Mathematical_modelling"><img src="https://img.shields.io/badge/Mathematical%20Modeling-fdcdac?style=for-the-badge" alt="Mathematical Modeling"></a>
+  <a href="https://en.wikipedia.org/wiki/Monte_Carlo_method"><img src="https://img.shields.io/badge/Monte%20Carlo%20Simulations-5f6c71?style=for-the-badge" alt="Monte Carlo Simulations"></a>
+  <a href="https://www.sandia.gov/research/numerical-methods/"><img src="https://img.shields.io/badge/Numerical%20Methods-228b22?style=for-the-badge" alt="Numerical Methods"></a>
+</p>
+
+### **High-Performance & Quantum Computing**
+<p>
+  <a href="https://www.openmp.org/"><img src="https://img.shields.io/badge/Parallel%20Computing-1f77b4?style=for-the-badge" alt="Parallel Computing"></a>
+  <a href="https://www.hpcwire.com/"><img src="https://img.shields.io/badge/High%20Performance%20Computing-ff6347?style=for-the-badge" alt="High Performance Computing"></a>
+  <a href="https://quantum-computing.ibm.com/"><img src="https://img.shields.io/badge/Quantum%20Computing-8a2be2?style=for-the-badge" alt="Quantum Computing"></a>
+</p>
+
+### **Physics & Specialized Domains**
+<p>
+  <a href="https://computational-astrophysics.github.io/"><img src="https://img.shields.io/badge/Computational%20Astrophysics-66c2a5?style=for-the-badge" alt="Computational Astrophysics"></a>
+  <a href="https://www.cosmos.esa.int/"><img src="https://img.shields.io/badge/Cosmology-8b008b?style=for-the-badge" alt="Cosmology"></a>
+  <a href="https://en.wikipedia.org/wiki/General_relativity"><img src="https://img.shields.io/badge/General%20Relativity-00008b?style=for-the-badge" alt="General Relativity"></a>
+  <a href="https://fluiddynamics.oxfordre.com/"><img src="https://img.shields.io/badge/Fluid%20Dynamics-20b2aa?style=for-the-badge" alt="Fluid Dynamics"></a>
+</p>
+
+---
+
+## 🤝 Collaboration & Expertise
+
+**🎯 Looking to collaborate on:**
+- 🔬 **Computational Physics** projects
+- 🌟 **Data-Driven Astronomy** research
+- 🤖 **Machine Learning** applications in physics
+- 📊 **Big Data** analysis in scientific contexts
+
+**💬 Ask me about:**
+- Anything related to **Astronomy, Physics, or Data Science**
+- **Research methodologies** and **computational approaches**
+- **Technical implementation** of scientific projects
+- **Career guidance** in STEM fields
+
+---
+
+## 🎨 Fun Facts & Personal Touch
+
+**✏️ Creative Side:** When I'm not exploring the cosmos through code, you'll find me making **doodles** and expressing creativity through art! 🖍️🎨🖌️
+
+**🌟 Philosophy:** *"The universe is not only stranger than we imagine, it is stranger than we can imagine"* - and I love being part of the journey to understand it better!
+
+---
+
+<div align="center">
+  <img alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
+</div>
+
+---
+
+<div align="center">
+  <strong>🚀 Ready to explore the universe through data and computation! 🌌</strong>
+</div>
+
 ## Collaboration and Contact
 
 *Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate.* 🤝
