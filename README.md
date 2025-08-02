@@ -5,7 +5,7 @@ Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 I am Adrita 🌜 🌠 🔭
 
 <p align="center">
-  <small><strong>Physics Graduate | Research Intern | Aspiring Astrophysicist and Observational Cosmologist</strong></small>
+  <span style="font-size: 12px;"><strong>Physics Graduate | Research Intern | Aspiring Astrophysicist and Observational Cosmologist</strong></span>
 </p>
 
 
