@@ -275,12 +275,18 @@ Whether exploring cosmic phenomena or developing innovative computational techni
 
 ---
 
-<a href="https://github.com/Adrita-Khan">
-  <img decoding="async" loading="lazy" height="200" src="https://github-readme-stats.vercel.app/api?username=Adrita-Khan&rank_icon=github&show_icons=true&title_color=fff&icon_color=FCAD61&text_color=9f9f9f&bg_color=00000000&include_all_commits=true&card_width=480" alt="GitHub Stats" style="display:block; margin-left:auto; margin-right:auto;" />
-</a>
-<a href="https://github.com/Adrita-Khan">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrita-Khan&size_weight=0.5&count_weight=0.5&hide=vim%20script&title_color=fff&icon_color=FCAD61&text_color=9f9f9f&bg_color=00000000&hide_title=true&card_width=396" alt="Top Languages" style="display:block; margin-left:auto; margin-right:auto;" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/adrita_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrita_" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/adrita-khan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrita-khan" height="30" width="40" />
+  </a>
+  <a href="https://adrita-khan.github.io/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="adrita-khan-website" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
