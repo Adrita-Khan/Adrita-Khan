@@ -19,13 +19,15 @@ I am Adrita 🌜 🌠 🔭
 
 
 
-Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. Currently, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA), as well as the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB).  
+Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. Currently, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA) and the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB), as well as a remote research assistant at the Centre for Astro-Particle Physics (CAPP), University of Johannesburg, South Africa. 
  
 ## 🎓 Academic Foundation
-> - **BSc Physics** (Major), Astronomy (Minor) — Universiti Sains Malaysia (USM)
->  - **Current Research Positions:**
-  > - Research Intern, CASSA (IUB) — Advancing astronomical research
-  > - Research Intern, CCDS (IUB) — Exploring computational approaches to complex scientific problems
+> - **BSc in Physics** (Major), Astronomy (Minor) — Universiti Sains Malaysia (USM)  
+> - **Current Research Positions:**  
+  > - Research Intern, Center for Astronomy, Space Science, and Astrophysics (CASSA), IUB — Advancing astronomical research  
+  > - Research Intern, Center for Computational and Data Sciences (CCDS), IUB — Exploring computational approaches to complex scientific problems  
+  > - Remote Research Assistant, Centre for Astro-Particle Physics (CAPP), University of Johannesburg — Contributing to astrophysics and particle physics research
+
 
 ## 🔬 Research Vision
 My work sits at the intersection of theoretical physics, computational modeling, and observational astronomy. I am passionate about leveraging advanced computational methods to unlock new insights in astrophysics and space science, bridging the gap between mathematical theory and empirical observation.
