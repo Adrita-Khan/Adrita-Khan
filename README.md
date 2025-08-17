@@ -29,13 +29,13 @@ Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, 
   > - Remote Research Assistant, Centre for Astro-Particle Physics (CAPP), University of Johannesburg — Contributing to astrophysics and particle physics research
 
 
-## 🔬 Research Vision
+## Research Vision
 My work sits at the intersection of theoretical physics, computational modeling, and observational astronomy. I am passionate about leveraging advanced computational methods to unlock new insights in astrophysics and space science, bridging the gap between mathematical theory and empirical observation.
 
-## 🎯 Looking Ahead
+## Looking Ahead
 I am actively seeking MSc and PhD opportunities that will allow me to deepen my expertise in interdisciplinary STEM research. My goal is to contribute to groundbreaking discoveries while building collaborative relationships with fellow researchers who share a commitment to advancing our understanding of the universe.
 
-> 💡 I am open to **research collaborations** and **graduate opportunities** in physics, astronomy, and computational sciences.
+>  I am open to **research collaborations** and **graduate opportunities** in physics, astronomy, and computational sciences.
 
 Whether exploring cosmic phenomena or developing innovative computational techniques, I'm driven by curiosity and the potential to make meaningful contributions to the scientific community.
 
