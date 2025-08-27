@@ -22,11 +22,13 @@ I am Adrita 🌜 🌠 🔭
 Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. Currently, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA), a full-time research assistant at the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB), and a remote research assistant at the Centre for Astro-Particle Physics (CAPP), University of Johannesburg, South Africa.
  
 ## 🎓 Academic Foundation
-> - **BSc in Physics** (Major), Astronomy (Minor) — Universiti Sains Malaysia (USM)  
-> - **Current Research Positions:**  
-  > - Research Intern, Center for Astronomy, Space Science, and Astrophysics (CASSA), IUB — Advancing astronomical research  
-  > - Research Intern, Center for Computational and Data Sciences (CCDS), IUB — Exploring computational approaches to complex scientific problems  
-  > - Remote Research Assistant, Centre for Astro-Particle Physics (CAPP), University of Johannesburg — Contributing to astrophysics and particle physics research
+
+> * **BSc in Physics (Major), Astronomy (Minor)** — Universiti Sains Malaysia (USM)
+> * **Current Research Positions:**
+>
+>   * Research Intern, **Center for Astronomy, Space Science, and Astrophysics (CASSA), IUB** — Engaged in observational and theoretical astronomy projects
+>   * Full-time Research Assistant, **Center for Computational and Data Sciences (CCDS), IUB** — Applying computational and data-driven methods to interdisciplinary scientific research
+>   * Remote Research Assistant, **Centre for Astro-Particle Physics (CAPP), University of Johannesburg** — Supporting research in astroparticle physics and cosmology
 
 
 ## Research Vision
