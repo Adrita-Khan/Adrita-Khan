@@ -16,10 +16,45 @@ I am Adrita 🌜 🌠 🔭
 > — Dr. Jordan B. Peterson
 
 
+# Greetings, everyone  
 
+I am **Adrita Khan**, a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.  
 
+I am currently:  
+- Research Intern at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**  
+- Full-time Research Assistant at the **Center for Computational and Data Sciences (CCDS)**, Independent University, Bangladesh  
+- Remote Research Assistant at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa  
 
-Greetings, everyone. I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy. Currently, I am a research intern at the Center for Astronomy, Space Science, and Astrophysics (CASSA), a full-time research assistant at the Center for Computational and Data Sciences (CCDS) at the Independent University, Bangladesh (IUB), and a remote research assistant at the Centre for Astro-Particle Physics (CAPP), University of Johannesburg, South Africa.
+In addition, I am pursuing a **part-time professional master’s degree in Applied Mathematics and Computational Science** at *North South University, Bangladesh*.  
+
+---
+
+## Research Interests  
+I am actively pursuing MSc and Ph.D. opportunities within the domains of **Science, Technology, Engineering, and Mathematics (STEM)**.  
+My broad research interests span:  
+
+- Observational Cosmology  
+- Stellar Astrophysics  
+- Radio, Optical, and Multiwavelength Astronomy  
+- Astrochemistry  
+- Machine Learning in Astrophysics  
+- Cosmological Simulations  
+- Instrumentation & Observational Techniques in Astronomy  
+- Computational Physics (*Materials Science, Nuclear & Particle Physics*)  
+- Interdisciplinary Research  
+
+---
+
+I look forward to engaging in **meaningful collaborations**, contributing to **impactful research**, and advancing knowledge in these fields while making contributions to **academia and beyond**.  
+
+---
+
+## Connect with me  
+- [GitHub](https://github.com/Adrita-Khan)  
+- [ResearchGate](https://www.researchgate.net/profile/Adrita-Khan)  
+- [Google Scholar](https://scholar.google.com/citations?user=by7-MiMAAAAJ)  
+- [ORCID](https://orcid.org/0009-0000-9304-8895)  
+
  
 ## 🎓 Academic Foundation
 
