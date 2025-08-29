@@ -49,7 +49,7 @@ I look forward to engaging in **meaningful collaborations**, contributing to **i
 
 ---
 
-## Connect with me  
+## Research Profiles  
 - [GitHub](https://github.com/Adrita-Khan)  
 - [ResearchGate](https://www.researchgate.net/profile/Adrita-Khan)  
 - [Google Scholar](https://scholar.google.com/citations?user=by7-MiMAAAAJ)  
