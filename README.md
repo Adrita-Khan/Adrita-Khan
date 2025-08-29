@@ -43,8 +43,9 @@ My broad research interests span:
 - Interdisciplinary Research  
 
 
+I strongly believe in fostering **diversity, equity, and inclusion** within academia and research, and I am committed to contributing to a collaborative and supportive scientific community.  
 
-I look forward to engaging in **meaningful collaborations**, contributing to **impactful research**, and advancing knowledge in these fields while making contributions to **academia and beyond**.  
+I look forward to engaging in meaningful collaborations, contributing to impactful research, and advancing knowledge in these fields while making impactful contributions to academia and beyond. 
 
 ---
 
