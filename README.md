@@ -34,7 +34,8 @@ My broad research interests span:
 - Observational Cosmology  
 - Stellar Astrophysics  
 - Radio, Optical, and Multiwavelength Astronomy  
-- Astrochemistry  
+- Astrochemistry
+- Astrostatistics
 - Machine Learning in Astrophysics  
 - Cosmological Simulations  
 - Instrumentation & Observational Techniques in Astronomy  
