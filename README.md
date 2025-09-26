@@ -18,9 +18,9 @@ I am Adrita 🌜 🌠 🔭
 
 Greetings, Everyone! I am **Adrita Khan**, a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.  
 I am currently:  
-> Research Intern at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**, Independent University, Bangladesh   
-> Full-time Research Assistant at the **Center for Computational and Data Sciences (CCDS)**, Independent University, Bangladesh  
-> Remote Research Assistant at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa  
+> - Research Intern at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**, Independent University, Bangladesh   
+> - Full-time Research Assistant at the **Center for Computational and Data Sciences (CCDS)**, Independent University, Bangladesh  
+> - Remote Research Assistant at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa  
 In addition, I have served as a **Graduate Teaching Assistant** at **North South University, Bangladesh**, responsible for **PHY107** and **PHY108** in **Spring 2025**.
 ---
 
