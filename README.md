@@ -57,14 +57,6 @@ My work and research interests lie at the intersection of theoretical physics, c
 
 I strongly believe in **diversity, equity, and inclusion**. I am committed to fostering a collaborative scientific community through impactful research and meaningful collaborations that advance knowledge within academia and beyond.
 
-## Looking Ahead
-I am actively seeking MSc and PhD opportunities that will allow me to deepen my expertise in interdisciplinary STEM research. My goal is to contribute to groundbreaking discoveries while building collaborative relationships with fellow researchers who share a commitment to advancing our understanding of the universe.
-
->  I am open to **research collaborations** and **graduate opportunities** in physics, astronomy, and computational sciences.
-
-Whether exploring cosmic phenomena or developing innovative computational techniques, I'm driven by curiosity and the potential to make meaningful contributions to the scientific community.
-
-
 
 ---
 
