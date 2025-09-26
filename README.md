@@ -16,7 +16,7 @@ I am Adrita 🌜 🌠 🔭
 > — Dr. Jordan B. Peterson
 
 
-# Greetings, everyone! I am Adrita Khan
+
 
 Physics graduate from the **University of Science, Malaysia (USM)** with a major in **Physics** and minor in **Astronomy**.
 
