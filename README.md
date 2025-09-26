@@ -36,7 +36,7 @@ I am currently:
 I am actively pursuing MSc and Ph.D. opportunities within the domains of **Science, Technology, Engineering, and Mathematics (STEM)**.  
 My broad research interests span:  
 
-- Large-Scale Structure (LSS), Dark Matter, Dark Energy, Modified Gravity Models, and Precision Cosmology
+- Observational Cosmology (Large-Scale Structure (LSS), Dark Matter, Dark Energy, Modified Gravity Models, and Precision Cosmology)
 - Stellar Astrophysics  
 - Radio, Optical, and Multiwavelength Astronomy  
 - Astrochemistry
