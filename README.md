@@ -47,10 +47,6 @@ My broad research interests span:
 - Computational Physics (*Materials Science, Nuclear & Particle Physics*)  
 - Interdisciplinary Research  
 
-
-I strongly believe in fostering **diversity, equity, and inclusion** within academia and research, and I am committed to building a collaborative and supportive scientific community through meaningful collaborations, impactful research, and advancing knowledge that contributes to academia and beyond.
-
-
 ---
 
 
