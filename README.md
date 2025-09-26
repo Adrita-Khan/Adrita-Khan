@@ -17,7 +17,7 @@ I am Adrita 🌜 🌠 🔭
 
 
 Greetings, Everyone! I am **Adrita Khan**
-> - a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.
+> - Graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.
 
 I am currently:  
 > - Full-time Research Intern at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**, Independent University, Bangladesh   
