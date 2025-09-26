@@ -87,7 +87,7 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 - 🔭 I'm currently working on ***multiple projects*** on ***Astronomy and Physics (e.g., Exoplanet Detection, Signal Processing, Band Gap Prediction, ML Applications in Interdisciplinary Fields, and more)***
 - 🌌 I'm currently learning: ***Python, Julia, MATLAB, and C++***
 
-<p>
+<p style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
@@ -161,6 +161,7 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   </a>
 </p>
+
 
 - 🤝 I'm looking to collaborate on projects related to ***Computational Physics and Data-Driven Astronomy***
 - 💬 Ask me about ***anything*** related to my field, and I would love to assist
