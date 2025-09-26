@@ -169,21 +169,6 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 - 💬 Ask me about ***anything*** related to my field, and I would love to assist
 - ✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️
 
-## 🤝 Collaboration & Expertise
-
-**🎯 Looking to collaborate on:**
-- 🔬 **Computational Physics** projects
-- 🌟 **Data-Driven Astronomy** research
-- 🤖 **Machine Learning** applications in physics
-- 📊 **Big Data** analysis in scientific contexts
-
-**💬 Ask me about:**
-- Anything related to **Astronomy, Physics, or Data Science**
-- **Research methodologies** and **computational approaches**
-- **Technical implementation** of scientific projects
-- **Career guidance** in STEM fields
-
-
 
 
 <p>
