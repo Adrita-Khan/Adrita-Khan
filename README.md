@@ -16,14 +16,25 @@ I am Adrita 🌜 🌠 🔭
 > — Dr. Jordan B. Peterson
 
 
-Greetings, Everyone! I am **Adrita Khan**, a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.  
+# Greetings, everyone! I am Adrita Khan
 
-I am currently:  
-- Research Intern at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**, Independent University, Bangladesh   
-- Full-time Research Assistant at the **Center for Computational and Data Sciences (CCDS)**, Independent University, Bangladesh  
-- Remote Research Assistant at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa  
+Physics graduate from the **University of Science, Malaysia (USM)** with a major in **Physics** and minor in **Astronomy**.
 
-In addition, I have served as a **Graduate Teaching Assistant** at **North South University, Bangladesh**, responsible for **PHY107** and **PHY108** in **Spring 2025**.
+## Current Research Positions
+
+**Research Intern** • Center for Astronomy, Space Science, and Astrophysics (CASSA)  
+*Independent University, Bangladesh*
+
+**Research Assistant** • Center for Computational and Data Sciences (CCDS)  
+*Independent University, Bangladesh*  
+
+**Remote Research Assistant** • Centre for Astro-Particle Physics (CAPP)  
+*University of Johannesburg, South Africa*
+
+## Teaching Experience
+
+**Graduate Teaching Assistant** • North South University, Bangladesh  
+PHY107 & PHY108 • Spring 2025
 
 ---
 
