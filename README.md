@@ -16,7 +16,9 @@ I am Adrita 🌜 🌠 🔭
 > — Dr. Jordan B. Peterson
 
 
-Greetings, Everyone! I am **Adrita Khan**, a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.  
+Greetings, Everyone! I am **Adrita Khan**
+> - a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.
+
 I am currently:  
 > - Research Intern at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**, Independent University, Bangladesh   
 > - Full-time Research Assistant at the **Center for Computational and Data Sciences (CCDS)**, Independent University, Bangladesh  
