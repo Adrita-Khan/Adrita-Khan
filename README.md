@@ -18,7 +18,7 @@ I am Adrita 🌜 🌠 🔭
 
 
 
-Physics graduate from the **University of Science, Malaysia (USM)** with a major in **Physics** and minor in **Astronomy**.
+Greetings, Everyone! I am Adrita Khan, a graduate of the University of Science, Malaysia (USM), with a major in Physics and a minor in Astronomy.  
 
 ## Current Research Positions
 
