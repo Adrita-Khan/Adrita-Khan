@@ -54,18 +54,6 @@ I strongly believe in fostering **diversity, equity, and inclusion** within acad
 ---
 
 
-
- 
-## 🎓 Academic Foundation
-
-> * **BSc in Physics (Major), Astronomy (Minor)** — Universiti Sains Malaysia (USM)
-> * **Current Research Positions:**
->
->   * Research Intern, **Center for Astronomy, Space Science, and Astrophysics (CASSA), IUB** — Engaged in observational and theoretical astronomy projects
->   * Full-time Research Assistant, **Center for Computational and Data Sciences (CCDS), IUB** — Applying computational and data-driven methods to interdisciplinary scientific research
->   * Remote Research Assistant, **Centre for Astro-Particle Physics (CAPP), University of Johannesburg** — Supporting research in astroparticle physics and cosmology
-
-
 ## Research Vision
 My work sits at the intersection of theoretical physics, computational modeling, and observational astronomy. I am passionate about leveraging advanced computational methods to unlock new insights in astrophysics and space science, bridging the gap between mathematical theory and empirical observation.
 
