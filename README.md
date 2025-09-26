@@ -216,9 +216,6 @@ Whether exploring cosmic phenomena or developing innovative computational techni
 
 
 
-<div align="center">
-  <strong>🚀 Ready to explore the universe through data and computation! 🌌</strong>
-</div>
 
 ## Collaboration and Contact
 
