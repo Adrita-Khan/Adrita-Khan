@@ -55,7 +55,7 @@ My broad research interests span:
 
 My work and research interests lie at the intersection of theoretical physics, computational applications, and observational astronomy. I am interested in incorporating advanced computational methods to gain new insights into astrophysics, particularly in cosmology, and bridging the gap between theoretical and empirical observations.
 
-I strongly believe in fostering **diversity, equity, and inclusion** within academia and research, and I am committed to building a collaborative and supportive scientific community through meaningful collaborations, impactful research, and advancing knowledge that contributes to academia and beyond.
+I strongly believe in **diversity, equity, and inclusion**. I am committed to fostering a collaborative scientific community through impactful research and meaningful collaborations that advance knowledge within academia and beyond.
 
 ## Looking Ahead
 I am actively seeking MSc and PhD opportunities that will allow me to deepen my expertise in interdisciplinary STEM research. My goal is to contribute to groundbreaking discoveries while building collaborative relationships with fellow researchers who share a commitment to advancing our understanding of the universe.
