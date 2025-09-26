@@ -145,9 +145,6 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
   <a href="https://www.hpcwire.com/">
     <img src="https://img.shields.io/badge/High%20Performance%20Computing-ff6347?style=for-the-badge" alt="High Performance Computing">
   </a>
-  <a href="https://quantum-computing.ibm.com/">
-    <img src="https://img.shields.io/badge/Quantum%20Computing-8a2be2?style=for-the-badge" alt="Quantum Computing">
-  </a>
   <a href="https://www.cosmos.esa.int/">
     <img src="https://img.shields.io/badge/Cosmology-8b008b?style=for-the-badge" alt="Cosmology">
   </a>
