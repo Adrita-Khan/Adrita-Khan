@@ -24,6 +24,7 @@ I am currently:
 > - Full-time Research Assistant at the **Center for Computational and Data Sciences (CCDS)**, Independent University, Bangladesh  
 > - Remote Research Assistant at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa
 > - Student Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
+
 In addition, I have served as a **Graduate Teaching Assistant** at **North South University, Bangladesh**, responsible for **PHY107** and **PHY108** in **Spring 2025**.
 ---
 
