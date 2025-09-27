@@ -163,7 +163,7 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 </p>
 
 
-- 🤝 I'm looking to collaborate on projects related to ***Computational Physics and Data-Driven Astronomy***
+- 🤝 I'm looking to collaborate on projects related to ***Computational Physics, Data-Driven Astronomy and Observational Cosmology***
 - 💬 Ask me about ***anything*** related to my field, and I would love to assist
 - ✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️
 
