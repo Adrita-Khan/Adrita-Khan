@@ -65,19 +65,74 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 
 | **Research Domain**                   | **Specific Areas of Focus**                                                                                                         | **Research Interests**                                                               |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **Cosmology & Large-Scale Structure** | • Dark matter and dark energy<br>• Cosmic microwave background<br>• Galaxy formation and evolution<br>• Structure simulations       | • Observational Cosmology<br>• Simulations<br>• Structure Formation Theory           |
-| **High-Energy Astrophysics**          | • Black holes and neutron stars<br>• Gamma-ray bursts<br>• X-ray and gravitational wave astronomy                                   | • Compact Objects<br>• High-Energy Phenomena<br>• Multi-messenger Astronomy          |
-
-| **Stellar Astrophysics**              | • Stellar evolution and nucleosynthesis<br>• Binary systems<br>• Stellar atmospheres and spectra<br>• Supernovae                    | • Stellar Modeling<br>• Spectroscopy<br>• Binary Star Dynamics                       |
-| **Galactic Astronomy**                | • Milky Way structure and dynamics<br>• Star formation regions<br>• Interstellar medium<br>• Chemical evolution                     | • Galactic Structure<br>• Star Formation<br>• Interstellar Physics                   |
-| **Extragalactic Astronomy**           | • Active galactic nuclei<br>• Galaxy clusters and groups<br>• Galaxy morphology<br>• Intergalactic medium                           | • Galaxy Evolution<br>• AGN Studies<br>• Clusters                                    |
-| **Multiwavelength Astronomy**         | • Radio and infrared observations<br>• Optical and UV spectroscopy<br>• Space-based studies                                         | • Radio and Infrared Astronomy<br>• Multi-wavelength Surveys                         |
-| **Astrochemistry**                    | • Molecular clouds and star formation<br>• Prebiotic chemistry in space<br>• Dust grain physics                                     | • Molecular Astrophysics<br>• Chemical Evolution<br>• Astrobiology                   |
-| **Computational Astrophysics**        | • N-body simulations<br>• Magnetohydrodynamics<br>• Radiative transfer<br>• High-performance computing                              | • Numerical Simulations<br>• Computational Modeling<br>• Algorithm Development       |
-| **Instrumentation & Technology**      | • Telescope design<br>• Detector development<br>• Adaptive optics<br>• Astrophotonics                                               | • Instrument Development<br>• Observational Techniques<br>• Technological Innovation |
-| **Planetary Science & Exoplanets**    | • Exoplanet detection and characterization<br>• Planetary atmospheres<br>• Habitability and astrobiology<br>• Solar system dynamics | • Exoplanet Discovery<br>• Atmospheric Modeling<br>• Habitability                    |
-| **Solar Physics**                     | • Solar magnetic fields<br>• Flares and mass ejections<br>• Solar-terrestrial interactions<br>• Helioseismology                     | • Solar Dynamics<br>• Space Weather<br>• Solar-Terrestrial Physics                   |
-| **Interdisciplinary Research**        | • Astroparticle physics<br>• Astrogeology<br>• Space weather modeling<br>• Fundamental physics tests                                | • Cross-disciplinary Studies<br>• Fundamental Physics<br>• Applied Astrophysics      |
+| **Cosmology & Large-Scale Structure** | • Dark matter and dark energy  
+• Cosmic microwave background  
+• Galaxy formation and evolution  
+• Structure simulations       | • Observational Cosmology  
+• Simulations  
+• Structure Formation Theory           |
+| **High-Energy Astrophysics**          | • Black holes and neutron stars  
+• Gamma-ray bursts  
+• X-ray and gravitational wave astronomy                                   | • Compact Objects  
+• High-Energy Phenomena  
+• Multi-messenger Astronomy          |
+| **Stellar Astrophysics**              | • Stellar evolution and nucleosynthesis  
+• Binary systems  
+• Stellar atmospheres and spectra  
+• Supernovae                    | • Stellar Modeling  
+• Spectroscopy  
+• Binary Star Dynamics                       |
+| **Galactic Astronomy**                | • Milky Way structure and dynamics  
+• Star formation regions  
+• Interstellar medium  
+• Chemical evolution                     | • Galactic Structure  
+• Star Formation  
+• Interstellar Physics                   |
+| **Extragalactic Astronomy**           | • Active galactic nuclei  
+• Galaxy clusters and groups  
+• Galaxy morphology  
+• Intergalactic medium                           | • Galaxy Evolution  
+• AGN Studies  
+• Clusters                                    |
+| **Multiwavelength Astronomy**         | • Radio and infrared observations  
+• Optical and UV spectroscopy  
+• Space-based studies                                         | • Radio and Infrared Astronomy  
+• Multi-wavelength Surveys                         |
+| **Astrochemistry**                    | • Molecular clouds and star formation  
+• Prebiotic chemistry in space  
+• Dust grain physics                                     | • Molecular Astrophysics  
+• Chemical Evolution  
+• Astrobiology                   |
+| **Computational Astrophysics**        | • N-body simulations  
+• Magnetohydrodynamics  
+• Radiative transfer  
+• High-performance computing                              | • Numerical Simulations  
+• Computational Modeling  
+• Algorithm Development       |
+| **Instrumentation & Technology**      | • Telescope design  
+• Detector development  
+• Adaptive optics  
+• Astrophotonics                                               | • Instrument Development  
+• Observational Techniques  
+• Technological Innovation |
+| **Planetary Science & Exoplanets**    | • Exoplanet detection and characterization  
+• Planetary atmospheres  
+• Habitability and astrobiology  
+• Solar system dynamics | • Exoplanet Discovery  
+• Atmospheric Modeling  
+• Habitability                    |
+| **Solar Physics**                     | • Solar magnetic fields  
+• Flares and mass ejections  
+• Solar-terrestrial interactions  
+• Helioseismology                     | • Solar Dynamics  
+• Space Weather  
+• Solar-Terrestrial Physics                   |
+| **Interdisciplinary Research**        | • Astroparticle physics  
+• Astrogeology  
+• Space weather modeling  
+• Fundamental physics tests                                | • Cross-disciplinary Studies  
+• Fundamental Physics  
+• Applied Astrophysics      |
 
 ---
 
