@@ -75,7 +75,6 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 | **Computational Astrophysics**        | • N-body simulations<br>• Magnetohydrodynamics<br>• Radiative transfer<br>• High-performance computing                              | • Numerical Simulations<br>• Computational Modeling<br>• Algorithm Development       |
 | **Instrumentation & Technology**      | • Telescope design<br>• Detector development<br>• Adaptive optics<br>• Astrophotonics                                               | • Instrument Development<br>• Observational Techniques<br>• Technological Innovation |
 | **Solar, Planetary Science & Plasma Physics**           | • Exoplanet detection and characterization<br>• Planetary atmospheres<br>• Habitability and astrobiology<br>• Solar system dynamics<br>• Solar magnetic fields<br>• Flares and mass ejections<br>• Solar-terrestrial interactions<br>• Helioseismology<br>• Plasma physics in planetary environments<br>• Magnetospheres and ionospheres | • Exoplanet Discovery<br>• Atmospheric Modeling<br>• Habitability<br>• Space Weather<br>• Plasma and Magnetospheric Physics<br>• Solar-Terrestrial Physics |
-| **Interdisciplinary Research**        | • Astroparticle physics<br>• Astrogeology<br>• Space weather modeling<br>• Fundamental physics tests                                | • Cross-disciplinary Studies<br>• Fundamental Physics<br>• Applied Astrophysics      |
 
 ---
 
