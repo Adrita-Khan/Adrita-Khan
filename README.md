@@ -61,7 +61,7 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 ---
 
 
-## 🔬 Research Interests in Astronomy & Astrophysics
+## Research Interests in Astronomy & Astrophysics
 
 | **Research Domain**                   | **Specific Areas of Focus**                                                                                                         | **Research Interests**                                                               |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
