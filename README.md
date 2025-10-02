@@ -81,7 +81,7 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 ## Projects, Technical Skills, and Fun Facts
 
 * 🔭 I'm currently working on ***multiple projects in Astronomy and Physics*** (e.g., Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, ML Applications in Interdisciplinary Fields, and more).
-- 🌌 I'm currently learning: ***Python, Julia, MATLAB, and C++***
+
 
 <p style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
   <a href="https://www.python.org/">
