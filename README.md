@@ -79,13 +79,6 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 | **Instrumentation & Technology**      | • Telescope design<br>• Detector development<br>• Adaptive optics<br>• Astrophotonics                                               | • Instrument Development<br>• Observational Techniques<br>• Technological Innovation |
 | **Solar, Planetary Science & Plasma Physics**           | • Exoplanet detection and characterization<br>• Planetary atmospheres<br>• Habitability and astrobiology<br>• Solar system dynamics<br>• Solar magnetic fields<br>• Flares and mass ejections<br>• Solar-terrestrial interactions<br>• Helioseismology<br>• Plasma physics in planetary environments<br>• Magnetospheres and ionospheres | • Exoplanet Discovery<br>• Atmospheric Modeling<br>• Habitability<br>• Space Weather<br>• Plasma and Magnetospheric Physics<br>• Solar-Terrestrial Physics |
 
----
-
-
-
-
-
-
 
 <p>
   <img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
