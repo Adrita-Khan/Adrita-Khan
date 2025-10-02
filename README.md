@@ -159,9 +159,8 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 </p>
 
 
-- 🤝 I'm looking to collaborate on projects related to ***Computational Physics, Data-Driven Astronomy and Observational Cosmology***
-- 💬 Ask me about ***anything*** related to my field, and I would love to assist
-- ✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️
+
+- *✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️*
 
 
 
@@ -173,14 +172,14 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 
 
 
+## Collaboration & Contact
 
+- 🤝 **Open to collaborations** in **Computational Physics**, **Data-Driven Astronomy**, and **Observational Cosmology**.
+- 💬 **Feel free to reach out** with any questions or discussions related to my field – I’m here to help and collaborate!
 
+### How to reach me:
+- 📧 [Gmail](mailto:adrita.khan.official@gmail.com)
 
-
-## Collaboration and Contact
-
-*Please feel free to reach out to me for any questions or discussions you may have – I'm here to assist and collaborate.* 🤝
-- 📧 How to reach me: **[Gmail](mailto:adrita.khan.official@gmail.com)** 
 
 <p>
   <img align="center" alt="Coding" width="400" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
