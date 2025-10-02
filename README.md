@@ -55,6 +55,9 @@ My broad research interests span:
 
 My work and research interests lie at the intersection of theoretical physics, computational applications, and observational astronomy. I am interested in incorporating advanced computational methods to gain new insights into astrophysics, particularly in cosmology, and bridging the gap between theoretical and empirical observations.
 
+* 🔭 I'm currently working on ***multiple projects in Astronomy and Physics*** (e.g., Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, ML Applications in Interdisciplinary Fields, and more).
+
+
 I strongly believe in **diversity, equity, and inclusion**. I am committed to fostering a collaborative scientific community through impactful research and meaningful collaborations that advance knowledge within academia and beyond.
 
 
@@ -78,15 +81,9 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 
 ---
 
-## Projects, Technical Skills, and Fun Facts
-
-* 🔭 I'm currently working on ***multiple projects in Astronomy and Physics*** (e.g., Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, ML Applications in Interdisciplinary Fields, and more).
 
 
 
-
-
-- *✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️*
 
 
 
@@ -121,7 +118,7 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
   </a>
 </p>
 
-
+- *✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️*
 
 ---
 
