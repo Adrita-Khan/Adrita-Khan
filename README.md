@@ -34,7 +34,7 @@ I am currently:
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Adrita-Khan)
   
 ## Research Interests  
-I am actively pursuing MSc and Ph.D. opportunities within the domains of **Science, Technology, Engineering, and Mathematics (STEM)**.  
+I am actively pursuing **MSc** and **Ph.D.** opportunities within the domains of **Science, Technology, Engineering, and Mathematics (STEM)**.  
 My broad research interests span:  
 
 - Observational Cosmology (Large-Scale Structure (LSS), Dark Matter, Dark Energy, Modified Gravity Models, and Precision Cosmology)
