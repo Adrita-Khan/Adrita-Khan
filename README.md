@@ -83,6 +83,51 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 * 🔭 I'm currently working on ***multiple projects in Astronomy and Physics*** (e.g., Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, ML Applications in Interdisciplinary Fields, and more).
 
 
+
+
+
+- *✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️*
+
+
+
+<p>
+  <img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
+</p>
+
+---
+
+
+
+## Collaboration & Contact
+
+- 🤝 **Open to collaborations** in **Computational Physics**, **Data-Driven Astronomy**, and **Observational Cosmology**.
+- 💬 **Feel free to reach out** with any questions or discussions related to my field – I’m here to help and collaborate!
+
+### How to reach me:
+- 📧 [Gmail](mailto:adrita.khan.official@gmail.com)
+
+
+<p>
+  <img align="center" alt="Coding" width="400" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/adrita_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/adrita-khan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+
+
+---
+
+## Activity Highlights, Tools, and Stats
+
+
 <p style="display: flex; flex-wrap: wrap; gap: 5px; justify-content: center;">
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -158,48 +203,6 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
   </a>
 </p>
 
-
-
-- *✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️*
-
-
-
-<p>
-  <img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
-</p>
-
----
-
-
-
-## Collaboration & Contact
-
-- 🤝 **Open to collaborations** in **Computational Physics**, **Data-Driven Astronomy**, and **Observational Cosmology**.
-- 💬 **Feel free to reach out** with any questions or discussions related to my field – I’m here to help and collaborate!
-
-### How to reach me:
-- 📧 [Gmail](mailto:adrita.khan.official@gmail.com)
-
-
-<p>
-  <img align="center" alt="Coding" width="400" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/adrita_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/adrita-khan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-
-
----
-
-## Activity Highlights, Tools, and Stats
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
