@@ -258,6 +258,8 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 ---
 
 ### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Adrita-Khan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Adrita-Khan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+</p>
 
 ---
