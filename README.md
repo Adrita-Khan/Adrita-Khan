@@ -52,7 +52,7 @@ My broad research interests span:
 
 My work and research interests lie at the intersection of theoretical physics, computational applications, and observational astronomy. I am interested in incorporating advanced computational methods to gain new insights into astrophysics, particularly in cosmology, and bridging the gap between theoretical and empirical observations.
 
-* 🔭 I'm currently working on ***multiple projects in Astronomy and Physics*** (e.g., Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, ML Applications in Interdisciplinary Fields, and more).
+* I'm currently working on ***multiple projects in Astronomy and Physics*** (e.g., Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, ML Applications in Interdisciplinary Fields, and more).
 
 
 I strongly believe in **diversity, equity, and inclusion**. I am committed to fostering a collaborative scientific community through impactful research and meaningful collaborations that advance knowledge within academia and beyond.
@@ -191,7 +191,7 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
