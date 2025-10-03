@@ -82,39 +82,40 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 
 
 ## Collaboration & Contact 
-
 - 🤝 **Open to collaborations** in **Computational Physics**, **Data-Driven Astronomy**, and **Observational Cosmology**.
-- 💬 **Feel free to reach out** with any questions or discussions related to my field – I’m here to help and collaborate!
+- 💬 **Feel free to reach out** with any questions or discussions related to my field – I'm here to help and collaborate!
 
 <table>
   <tr>
     <!-- Left column -->
-    <td valign="top">
-      ### How to reach me:
-      - 📧 [Gmail](mailto:adrita.khan.official@gmail.com)
+    <td>
+
+### How to reach me:
+- 📧 [Gmail](mailto:adrita.khan.official@gmail.com)
+
     </td>
-
     <!-- Right column -->
-    <td valign="top">
-      <p align="center">
-        <img alt="GIF 1" width="200" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
-        <img alt="GIF 2" width="200" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
-      </p>
+    <td>
 
-      <h3 align="center">Connect with me:</h3>
-      <p align="center">
-        <a href="https://twitter.com/adrita_" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-        </a>
-        <a href="https://linkedin.com/in/adrita-khan" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-      </p>
+<p align="center">
+  <img alt="GIF 1" width="200" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
+  <img alt="GIF 2" width="200" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
+</p>
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://twitter.com/adrita_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/adrita-khan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
     </td>
   </tr>
 </table>
-
-
 
 
 
