@@ -77,10 +77,6 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 | **Solar, Planetary Science & Plasma Physics**           | • Exoplanet detection and characterization<br>• Planetary atmospheres<br>• Habitability and astrobiology<br>• Solar system dynamics<br>• Solar magnetic fields<br>• Flares and mass ejections<br>• Solar-terrestrial interactions<br>• Helioseismology<br>• Plasma physics in planetary environments<br>• Magnetospheres and ionospheres | • Exoplanet Discovery<br>• Atmospheric Modeling<br>• Habitability<br>• Space Weather<br>• Plasma and Magnetospheric Physics<br>• Solar-Terrestrial Physics |
 
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
-</p>
-
 
 ---
 
@@ -107,7 +103,6 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 <p align="center">
   <img alt="GIF 1" width="200" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
   <img alt="GIF 2" width="200" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
-  <img alt="GIF 3" width="200" src="https://github-contributor-stats.vercel.app/api?username=Adrita-Khan&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
 
 <h3 align="center">Connect with me:</h3>
