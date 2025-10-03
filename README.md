@@ -88,14 +88,14 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 <table>
   <tr>
     <!-- Left column -->
-    <td>
+    <td valign="top">
 
 ### How to reach me:
 - 📧 [Gmail](mailto:adrita.khan.official@gmail.com)
 
     </td>
     <!-- Right column -->
-    <td>
+    <td valign="top">
 
 <p align="center">
   <img alt="GIF 1" width="200" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
