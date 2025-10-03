@@ -108,7 +108,8 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
   </a>
 </p>
 
-- *✏️ Fun fact: ***I love making doodles when I get free time*** 🖍️🎨🖌️*
+<p align="center"> ✏️ Fun fact: <b><i>I love making doodles when I get free time</i></b> 🖍️🎨🖌️</p>
+
 
 ---
 
