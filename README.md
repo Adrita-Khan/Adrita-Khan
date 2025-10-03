@@ -90,34 +90,33 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 <table>
   <tr>
     <!-- Left column -->
-    <td>
-
-### How to reach me:
-- 📧 [Gmail](mailto:adrita.khan.official@gmail.com)
-
+    <td valign="top" width="50%">
+      <h3>How to reach me:</h3>
+      <ul>
+        <li>📧 <a href="mailto:adrita.khan.official@gmail.com">Gmail</a></li>
+      </ul>
     </td>
 
     <!-- Right column -->
-    <td>
+    <td valign="top" width="50%">
+      <p align="center">
+        <img alt="Cosmos Animation 1" width="200" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif" />
+        <img alt="Cosmos Animation 2" width="200" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
+      </p>
 
-<p align="center">
-  <img alt="GIF 1" width="200" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
-  <img alt="GIF 2" width="200" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/adrita_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/adrita-khan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
+      <h3 align="center">Connect with me:</h3>
+      <p align="center">
+        <a href="https://twitter.com/adrita_" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+        </a>
+        <a href="https://linkedin.com/in/adrita-khan" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 
 
