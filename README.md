@@ -84,14 +84,12 @@ I strongly believe in **diversity, equity, and inclusion**. I am committed to fo
 ## Collaboration & Contact 
 - 🤝 **Open to collaborations** in **Computational Physics**, **Data-Driven Astronomy**, and **Observational Cosmology**.
 - 💬 **Feel free to reach out** with any questions or discussions related to my field – I'm here to help and collaborate!
-<img alt="GIF 1" width="200" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif">
-
 
 
 ### How to reach me:
-| 📧 Gmail | Twitter | LinkedIn |
-| -------- | ------- | -------- |
-| [Gmail](mailto:adrita.khan.official@gmail.com) | [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/adrita_) | [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/adrita-khan) |
+| 📧 Gmail | Twitter | LinkedIn |  |
+| -------- | ------- | -------- | --- |
+| [Gmail](mailto:adrita.khan.official@gmail.com) | [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/adrita_) | [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/adrita-khan) | ![GIF 1](https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif) |
 
 
 
