@@ -20,7 +20,7 @@ Greetings, Everyone! I am **Adrita Khan**
 > - Graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.
 
 I am currently:  
-> - Full-time Research Assistant at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**, Independent University, Bangladesh   
+> - Part-time Research Assistant at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**, Independent University, Bangladesh   
 > - Full-time Research Assistant at the **Center for Computational and Data Sciences (CCDS)**, Independent University, Bangladesh  
 > - Remote Research Assistant at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa
 > - Student Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
