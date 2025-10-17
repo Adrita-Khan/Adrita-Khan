@@ -42,7 +42,7 @@ My broad research interests span:
 - Machine Learning in Astrophysics  
 - Cosmological Simulations  
 - Instrumentation & Observational Techniques in Astronomy  
-- Computational Physics (*Materials Science, Nuclear & Astro-Particle Physics*)  
+- Computational Physics (*Nuclear & Astro-Particle Physics*)  
 - Interdisciplinary Research  
 
 ---
