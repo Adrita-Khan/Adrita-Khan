@@ -34,16 +34,19 @@ I am currently:
 I am actively pursuing **MSc** and **Ph.D.** opportunities within the domains of **Science, Technology, Engineering, and Mathematics (STEM)**.  
 My broad research interests span:  
 
-- Observational Cosmology (Large-Scale Structure (LSS), Dark Matter, Dark Energy, Modified Gravity Models, and Precision Cosmology)
-- Stellar Astrophysics  
-- Radio, Optical, and Multiwavelength Astronomy  
-- Astrochemistry
-- Astrostatistics
-- Machine Learning in Astrophysics  
-- Cosmological Simulations  
-- Instrumentation & Observational Techniques in Astronomy  
-- Computational Physics (*Nuclear & Astro-Particle Physics*)  
-- Interdisciplinary Research  
+| Research Area | Description |
+|----------------|-------------|
+| Observational Cosmology | Large-Scale Structure (LSS), Dark Matter, Dark Energy, Modified Gravity Models, and Precision Cosmology |
+| Stellar Astrophysics | Study of stars, their formation, evolution, and properties |
+| Radio, Optical, and Multiwavelength Astronomy | Observation of astronomical objects using different wavelengths (radio, optical, infrared, etc.) |
+| Astrochemistry | Study of chemical compositions and processes in space |
+| Astrostatistics | Application of statistical methods to analyze astronomical data |
+| Machine Learning in Astrophysics | Use of AI and machine learning techniques to analyze and model astrophysical data |
+| Cosmological Simulations | Computational modeling of the universe's structure and evolution |
+| Instrumentation & Observational Techniques in Astronomy | Development of tools and methods for observing celestial bodies |
+| Computational Physics (*Nuclear & Astro-Particle Physics*) | Use of computational methods to study nuclear physics and astrophysical particle interactions |
+| Interdisciplinary Research | Collaborative research crossing over multiple scientific fields |
+
 
 ---
 
