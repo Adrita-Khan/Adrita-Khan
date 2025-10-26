@@ -39,6 +39,7 @@ My broad research interests span:
 |----------------|-------------|
 | Observational Cosmology | Large-Scale Structure (LSS), Dark Matter, Dark Energy, Modified Gravity Models, and Precision Cosmology |
 | Theoretical Cosmology | Study of the universe's origin, evolution, and large-scale structure through theoretical models |
+| Theoretical Physics | Development of models and theories to understand the fundamental laws of nature |
 | Stellar Astrophysics | Study of stars, their formation, evolution, and properties |
 | Radio, Optical, and Multiwavelength Astronomy | Observation of astronomical objects using different wavelengths (radio, optical, infrared, etc.) |
 | Astrochemistry | Study of chemical compositions and processes in space |
