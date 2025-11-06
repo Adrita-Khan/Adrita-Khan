@@ -27,7 +27,6 @@ I am currently:
 > - Student Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
 > - In addition, I have served as a **Teaching Assistant** at **North South University, Bangladesh**, responsible for **PHY107** and **PHY108** in **Spring 2025**.
 ---
-## Research Profiles  
 
 ## Research Profiles  
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Adrita-Khan)  [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=by7-MiMAAAAJ)  [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9304-8895)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Adrita-Khan)  [![Website](https://img.shields.io/badge/-Website-FF6B6B?style=flat&logo=google-chrome&logoColor=white)](https://adrita-khan.github.io/)
