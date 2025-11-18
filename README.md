@@ -43,6 +43,8 @@ I strongly believe in **diversity, equity, and inclusion**, fostering a collabor
 
 ## Research Interests in Astronomy & Astrophysics
 
+Observational Cosmology & LSS | CMB Lensing | Dark Matter & Dark Energy | Modified Gravity | Redshift Estimation | Radio Galaxy Classification and AGN Morphology | RFI Mitigation | High-Energy & Astroparticle Physics | GRB | Astrostatistics & Machine Learning
+
 | **Research Domain**                   | **Specific Areas of Focus**                                                                                                                                                                  |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Cosmology & Large-Scale Structure** | Dark matter and dark energy • Cosmic microwave background • Galaxy formation and evolution • Structure simulations • Modified gravity theories • Weak gravitational lensing |
