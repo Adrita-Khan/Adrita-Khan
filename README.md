@@ -92,17 +92,11 @@ I strongly believe in **diversity, equity, and inclusion**, fostering a collabor
   <a href="https://astropy.org/">
     <img src="https://img.shields.io/badge/Astropy-FF6B35?style=for-the-badge&logo=astronomy&logoColor=white" alt="Astropy">
   </a>
-  <a href="https://astroml.org/">
-    <img src="https://img.shields.io/badge/Astroml-f48c06?style=for-the-badge&logo=python&logoColor=white" alt="Astroml">
-  </a>
   <a href="https://astroquery.readthedocs.io/">
     <img src="https://img.shields.io/badge/Astroquery-e67e22?style=for-the-badge&logo=python&logoColor=white" alt="Astroquery">
   </a>
   <a href="https://lightkurve.org/">
     <img src="https://img.shields.io/badge/Lightkurve-00a0e9?style=for-the-badge&logo=python&logoColor=white" alt="Lightkurve">
-  </a>
-  <a href="https://skypy.readthedocs.io/">
-    <img src="https://img.shields.io/badge/SkyPy-8a2be2?style=for-the-badge&logo=python&logoColor=white" alt="SkyPy">
   </a>
   <a href="https://www.tensorflow.org/">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -110,9 +104,7 @@ I strongly believe in **diversity, equity, and inclusion**, fostering a collabor
   <a href="https://www.mysql.com/products/community/">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
-  <a href="https://www.plotly.com/chart-studio/">
-    <img src="https://img.shields.io/badge/Data%20Visualization-2ca02c?style=for-the-badge&logo=chartjs&logoColor=white" alt="Data Visualization">
-  </a>
+ 
 </p>
 
 <p align="left">
