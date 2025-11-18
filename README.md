@@ -43,7 +43,12 @@ I strongly believe in **diversity, equity, and inclusion**, fostering a collabor
 
 ## Research Interests in Astronomy & Astrophysics
 
-Observational Cosmology & LSS | CMB Lensing | Dark Matter & Dark Energy | Modified Gravity | Redshift Estimation | Radio Galaxy Classification and AGN Morphology | RFI Mitigation | High-Energy & Astroparticle Physics | GRB | Astrostatistics & Machine Learning
+### Core Research Areas
+
+Observational Cosmology & Large-Scale Structure • CMB Lensing • Dark Matter & Dark Energy • Modified Gravity • Redshift Estimation • Radio Galaxy Classification & AGN Morphology • RFI Mitigation • High-Energy & Astroparticle Physics • Gamma-Ray Bursts • Astrostatistics & Machine Learning
+
+
+#### Detailed Research Domains
 
 | **Research Domain**                   | **Specific Areas of Focus**                                                                                                                                                                  |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,10 +58,8 @@ Observational Cosmology & LSS | CMB Lensing | Dark Matter & Dark Energy | Modifi
 | **Galactic Astronomy**                | Milky Way structure and dynamics • Star formation regions • Interstellar medium                                             |
 | **Extragalactic Astronomy**           | Active galactic nuclei • Galaxy clusters and groups • Galaxy morphology and evolution • Intergalactic medium                           |
 | **Multiwavelength Astronomy**         | Radio, infrared, optical, and UV observations • Space-based studies • Multi-wavelength surveys                                         |
-| **Astrochemistry**                    | Molecular clouds and star formation • Chemical evolution in space                                                                                               |
 | **Computational Astrophysics**        | N-body simulations • Magnetohydrodynamics • Radiative transfer • High-performance computing • Algorithm development • Nuclear & astro-particle physics                              |
-| **Instrumentation & Technology**      | Telescope design • Detector development • Adaptive optics • Astrophotonics • Observational techniques                                               |
-| **Solar, Planetary Science & Plasma Physics**           | Exoplanet detection and characterization • Planetary atmospheres • Habitability and astrobiology • Solar system dynamics • Solar magnetic fields • Flares and mass ejections • Solar-terrestrial interactions • Helioseismology • Magnetospheres and ionospheres |
+
 
 ---
 
