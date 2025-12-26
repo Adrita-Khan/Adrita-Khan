@@ -5,6 +5,33 @@ Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 I am Adrita 🌜 🌠 🔭
 </h1>
 
+<h3 align="center">PhD Aspirant in Astrophysics & Cosmology</h3>
+
+<p align="center">
+  <a href="https://adrita-khan.github.io/">
+    <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.researchgate.net/profile/Adrita-Khan">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate">
+  </a>
+  <a href="https://scholar.google.com/citations?user=by7-MiMAAAAJ">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0009-0000-9304-8895">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="https://linkedin.com/in/adrita-khan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/adrita_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</p
+
 # About Me 
 
 <p>
@@ -24,10 +51,7 @@ I am currently:
 > - Student Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
 > - Teaching Assistant at **North South University, Bangladesh** for **PHY107** and **PHY108** (Spring 2025)
 
----
 
-## Research Profiles  
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Adrita-Khan)  [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=by7-MiMAAAAJ)  [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9304-8895)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Adrita-Khan)  [![Website](https://img.shields.io/badge/-Website-FF6B6B?style=flat&logo=google-chrome&logoColor=white)](https://adrita-khan.github.io/)
 
 ---
 
@@ -152,9 +176,6 @@ Observational Cosmology & Large-Scale Structure • CMB Lensing • Dark Matter 
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20views&color=0e75b6&style=flat" alt="adrita-khan" />
-</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrita-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
