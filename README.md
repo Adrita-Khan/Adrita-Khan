@@ -55,6 +55,10 @@ I am currently:
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=820&lines=Cosmological+Inference+%7C+Fisher%2FMCMC;Weak+Lensing+%26+Systematics;Combined+Cosmological+Probes;Large-Scale+Structure+Analysis;CMB+Angular+Power+Spectra;Baryon+Acoustic+Oscillations;Type+Ia+Supernovae+Distances;Galaxy+Clustering+%26+Redshift+Surveys;Photometric+%26+Spectroscopic+Redshifts;3x2pt+Correlation+Functions;Shear+Calibration+%26+PSF+Modeling;Covariance+Estimation+%7C+Jackknife;Dark+Energy+Equation+of+State;Neutrino+Mass+Constraints;Primordial+Non-Gaussianity;Modified+Gravity+Tests" alt="Typing SVG" />
+</p>
+
 ## Research Vision
 
 I am actively pursuing **MSc** and **Ph.D.** opportunities within **STEM** fields. My work lies at the intersection of theoretical physics, computational applications, and observational astronomy, incorporating advanced computational methods to gain new insights into astrophysics and bridging the gap between theory and empirical observations.
