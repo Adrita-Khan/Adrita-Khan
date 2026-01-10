@@ -76,7 +76,7 @@ I strongly believe in **diversity, equity, and inclusion**, fostering a collabor
 
 ### Core Research Areas
 
-Observational Cosmology & Large-Scale Structure • CMB Lensing • Dark Matter & Dark Energy • Modified Gravity • Redshift Estimation • Radio Galaxy Classification & AGN Morphology • RFI Mitigation • High-Energy & Astroparticle Physics • Gamma-Ray Bursts • Astrostatistics & Machine Learning
+Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing • Dark Matter & Dark Energy • Modified Gravity • Redshift Estimation • Radio Galaxy Classification & AGN Morphology • RFI Mitigation • High-Energy & Astroparticle Physics • Gamma-Ray Bursts • Astrostatistics & Machine Learning
 
 
 #### Detailed Research Domains
@@ -96,7 +96,7 @@ Observational Cosmology & Large-Scale Structure • CMB Lensing • Dark Matter 
 
 ## Collaboration & Contact 
 
-🤝 **Open to collaborations** in **Computational Physics**, **Data-Driven Astronomy**, and **Observational Cosmology**.
+🤝 **Open to collaborations** in **Computational Physics**, **Data-Driven Astronomy**, and **Theoretical & Observational Cosmology**.
 
 💬 **Feel free to reach out** with any questions or discussions related to my field!
 
