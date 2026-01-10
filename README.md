@@ -32,6 +32,8 @@ I am Adrita 🌜 🌠 🔭
   <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p
 
+
+
 # About Me 
 
 <p>
@@ -55,9 +57,6 @@ I am currently:
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=820&lines=Cosmological+Inference+%7C+Fisher%2FMCMC;Weak+Lensing+%26+Systematics;Combined+Cosmological+Probes;Large-Scale+Structure+Analysis;CMB+Angular+Power+Spectra;Baryon+Acoustic+Oscillations;Type+Ia+Supernovae+Distances;Galaxy+Clustering+%26+Redshift+Surveys;Photometric+%26+Spectroscopic+Redshifts;3x2pt+Correlation+Functions;Shear+Calibration+%26+PSF+Modeling;Covariance+Estimation+%7C+Jackknife;Dark+Energy+Equation+of+State;Neutrino+Mass+Constraints;Primordial+Non-Gaussianity;Modified+Gravity+Tests" alt="Typing SVG" />
-</p>
 
 ## Research Vision
 
@@ -70,6 +69,10 @@ I strongly believe in **diversity, equity, and inclusion**, fostering a collabor
 ---
 
 ## Research Interests in Astronomy & Astrophysics
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=820&lines=Observational+Cosmology+%26+Large-Scale+Structure;Modified+Gravity+%7C+Cross-Correlation+Analysis;CMB+Lensing+%7C+Angular+Power+Spectra;Galaxy-Galaxy+%26+Galaxy-CMB+Clustering;Photometric+Redshift+Estimation;Gamma-Ray+Bursts+%7C+ML+Redshift+Prediction;Radio+Galaxy+Classification+%26+Morphology;RFI+Mitigation+%7C+Radio+Astronomy;Particle+Jet+Tagging+%7C+High-Energy+Physics;Fisher+Matrix+%7C+MCMC+Parameter+Inference;Weak+Gravitational+Lensing;f(R)+%26+DGP+Gravity+Theories;Machine+Learning+for+Astrophysics;Gaussian+Process+Regression;Deep+Learning+%7C+Neural+Networks;Dark+Matter+%26+Dark+Energy+Constraints" alt="Typing SVG" />
+</p>
 
 ### Core Research Areas
 
