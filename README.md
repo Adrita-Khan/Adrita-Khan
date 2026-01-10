@@ -202,6 +202,17 @@ Observational Cosmology & Large-Scale Structure • CMB Lensing • Dark Matter 
 
 ---
 
+
+<!-- Activity Graph -->
+<div align="center">
+  
+[![Adrita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrita-khan&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=ff8c00&line=ff8c00&point=ffffff)](https://github.com/adrita-khan)
+
+</div>
+
+---
+
+
 ### 🔝 Top Contributed Repositories
 
 <p align="center">
