@@ -220,6 +220,13 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=820&lines=The+heavens+declare+the+glory+of+God%3B+the+skies+proclaim+the+work+of+His+hands.;%E2%80%94+Psalm+19%3A1" alt="Typing SVG" />
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
