@@ -206,6 +206,12 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrita-khan&theme=radical" alt="Productive Time" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=adrita-khan&theme=radical&hide_border=true&background=1a1b27&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00" alt="GitHub Streak" />
+</p>
+
+
 ---
 
 
