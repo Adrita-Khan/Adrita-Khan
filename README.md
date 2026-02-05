@@ -91,8 +91,23 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
 | **Multiwavelength Astronomy**         | Radio, infrared, optical, and UV observations • Space-based studies • Multi-wavelength surveys                                         |
 | **Computational Astrophysics**        | N-body simulations • Magnetohydrodynamics • Radiative transfer • High-performance computing • Algorithm development • Nuclear & astro-particle physics                              |
 
+## 📚 Citation Metrics
+
+<a href="https://scholar.google.com/citations?user=by7-MiMAAAAJ">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Citations&query=total_citations&url=https%3A%2F%2Fcse.bth.se%2F~fer%2Fgooglescholar-api%2Fgooglescholar.php%3Fuser%3Dby7-MiMAAAAJ&logo=googlescholar&style=for-the-badge&color=4285F4" />
+</a>
 
 ---
+## 🎯 Current Research Focus
+
+<div align="center">
+
+| **Cosmology** | **Machine Learning** | **High-Energy Physics** |
+|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Modified_Gravity-CMB_Lensing-orange?style=flat-square) | ![](https://img.shields.io/badge/Stochastic_Inflation-PINNs-ff6b35?style=flat-square) | ![](https://img.shields.io/badge/Particle-Jet_Tagging-ff4500?style=flat-square) |
+| ![](https://img.shields.io/badge/Cross--Correlation-Analysis-darkorange?style=flat-square) | ![](https://img.shields.io/badge/GRB-Redshift_ML-ff8c00?style=flat-square) | ![](https://img.shields.io/badge/RFI-Mitigation-orange?style=flat-square) |
+
+</div>
 
 ## Collaboration & Contact 
 
@@ -214,6 +229,9 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
 
 ---
 
+
+
+<img src="https://ghchart.rshah.org/ff8c00/adrita-khan" alt="Contribution Chart" width="100%"/>
 
 
 <!-- Activity Graph -->
