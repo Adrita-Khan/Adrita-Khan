@@ -231,9 +231,6 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
 
 
 
-<img src="https://ghchart.rshah.org/ff8c00/adrita-khan" alt="Contribution Chart" width="100%"/>
-
-
 <!-- Activity Graph -->
 <div align="center">
   
