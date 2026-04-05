@@ -48,7 +48,7 @@ Greetings, Everyone! I am **Adrita Khan**, a graduate of the *University of Scie
 I am currently:  
 
 > - Full-time Research Assistant **(employed)** at the [**Center for Computational and Data Sciences (CCDS), Computational Physics & Astronomy (ComPAs) Wing**](https://ccds.ai/?portfolio=adrita-khan), Independent University, Bangladesh
-> - Part-time Research Assistant at the [**Center for Astronomy, Space Science, and Astrophysics (CASSA)**](https://cassa.site/people/students/), Independent University, Bangladesh   
+> - Research Collaborator at the [**Center for Astronomy, Space Science, and Astrophysics (CASSA)**](https://cassa.site), Independent University, Bangladesh   
 > - Remote Research Assistant at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa
 > - Student Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
 > - Teaching Assistant at **North South University, Bangladesh** for **PHY107** and **PHY108** (Spring 2025)
