@@ -40,6 +40,10 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a> (আদৃতা)🌜 �
 
 Greetings, Everyone! I am **Adrita Khan**, a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.
 
+<p>
+  <img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" />
+</p>
+
 I am currently:  
 
 > - Full-time Research Assistant **(employed)** at the [**Center for Computational and Data Sciences (CCDS), Computational Physics & Astronomy (ComPAs) Wing**](https://ccds.ai/?portfolio=adrita-khan), Independent University, Bangladesh
@@ -48,11 +52,7 @@ I am currently:
 > - Student Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
 > - Teaching Assistant at **North South University, Bangladesh** for **PHY107** and **PHY108** (Spring 2025)
 
-<h1 align="center">
-  <a href="https://Adrita-Khan.io">
-    <img src="https://github.com/Adrita-Khan/Assets/blob/main/host/antonia%20maury%20stars%20GIF%20by%20AstroChat.gif" alt="MasterHead" />
-  </a>
-</h1>
+
 
 ---
 
@@ -64,6 +64,12 @@ I am actively pursuing **MSc** and **Ph.D.** opportunities within **STEM** field
 I'm currently working on multiple projects including Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, and ML Applications in Interdisciplinary Fields.
 
 I strongly believe in **diversity, equity, and inclusion**, fostering a collaborative scientific community through impactful research and meaningful collaborations.
+
+<h1 align="center">
+  <a href="https://Adrita-Khan.io">
+    <img src="https://github.com/Adrita-Khan/Assets/blob/main/host/antonia%20maury%20stars%20GIF%20by%20AstroChat.gif" alt="MasterHead" />
+  </a>
+</h1>
 
 ---
 
