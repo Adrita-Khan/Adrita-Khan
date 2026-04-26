@@ -1,12 +1,6 @@
 <h1 align="center">
-  <a href="https://Adrita-Khan.io">
-    <img src="https://github.com/Adrita-Khan/Assets/blob/main/host/antonia%20maury%20stars%20GIF%20by%20AstroChat.gif" alt="MasterHead" />
-  </a>
-</h1>
-
-<h1 align="center">
 Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">🌞
-I am Adrita (আদৃতা) 🌜 🌠 🔭
+I am <a href="https://adrita-khan.github.io/">Adrita</a> (আদৃতা)🌜 🌠 🔭
 </h1>
 
 <h3 align="center">PhD Aspirant in Astrophysics & Cosmology</h3>
@@ -54,7 +48,11 @@ I am currently:
 > - Student Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
 > - Teaching Assistant at **North South University, Bangladesh** for **PHY107** and **PHY108** (Spring 2025)
 
-
+<h1 align="center">
+  <a href="https://Adrita-Khan.io">
+    <img src="https://github.com/Adrita-Khan/Assets/blob/main/host/antonia%20maury%20stars%20GIF%20by%20AstroChat.gif" alt="MasterHead" />
+  </a>
+</h1>
 
 ---
 
