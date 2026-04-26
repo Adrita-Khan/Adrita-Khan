@@ -174,21 +174,6 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
 ---
 
 
-
-<!-- Activity Graph -->
-<div align="center">
-  
-[![Adrita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrita-khan&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=ff8c00&line=ff8c00&point=ffffff)](https://github.com/adrita-khan)
-
-</div>
-
-
-
-
-
----
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=820&lines=The+heavens+declare+the+glory+of+God%3B+the+skies+proclaim+the+work+of+His+hands.;%E2%80%94+Psalm+19%3A1" alt="Typing SVG" />
 </p>
