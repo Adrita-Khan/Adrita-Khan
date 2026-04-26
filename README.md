@@ -161,11 +161,6 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrita-khan&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrita-khan&theme=radical" alt="Most Used Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrita-khan&theme=radical" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrita-khan&theme=radical" alt="Productive Time" />
 </p>
@@ -187,14 +182,9 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
 
 </div>
 
----
 
 
-### 🔝 Top Contributed Repositories
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Adrita-Khan&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
-</p>
 
 ---
 
