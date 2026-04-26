@@ -1,4 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://Adrita-Khan.io)
+<h1 align="center">
+  <a href="https://Adrita-Khan.io">
+    <img src="https://github.com/Adrita-Khan/Assets/blob/main/host/antonia%20maury%20stars%20GIF%20by%20AstroChat.gif" alt="MasterHead" />
+  </a>
+</h1>
 
 <h1 align="center">
 Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">🌞
@@ -36,9 +40,6 @@ I am Adrita (আদৃতা) 🌜 🌠 🔭
 
 # About Me 
 
-<p>
-  <img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" />
-</p>
 
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Dr. Jordan B. Peterson
