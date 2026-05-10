@@ -3,7 +3,7 @@
 
 <h1 align="center">
 Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">🌞
-I am <a href="https://adrita-khan.github.io/">Adrita</a> (আদৃতা)🌜 🌠 🔭
+I am <a href="https://adrita-khan.github.io/">Adrita</a>🌜 🌠 🔭
 </h1>
 
 <h3 align="center">PhD Aspirant in Astrophysics & Cosmology</h3>
@@ -41,7 +41,7 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a> (আদৃতা)🌜 �
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Dr. Jordan B. Peterson
 
-Greetings, Everyone! I am **Adrita Khan**, a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.
+Greetings, Everyone! I am **Adrita** (আদৃতা), a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.
 
 <p>
   <img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" />
