@@ -51,8 +51,8 @@ I am currently:
 
 > - Full-time Research Assistant **(employed)** at the [**Center for Computational and Data Sciences (CCDS), Computational Physics & Astronomy (ComPAs) Wing**](https://ccds.ai/people/adrita-khan), Independent University, Bangladesh
 > - Research Collaborator at the **Center for Astronomy, Space Science, and Astrophysics (CASSA)**, Independent University, Bangladesh   
-> - Remote Research Assistant at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa
-> - Student Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
+> - Remote Research Collaborator at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa
+> - Remote Research Collaborator, **Dunlap Institute for Astronomy & Astrophysics**, University of Toronto
 > - Teaching Assistant at **North South University, Bangladesh** for **PHY107** and **PHY108** (Spring 2025)
 
 
