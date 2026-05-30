@@ -86,14 +86,14 @@ I strongly believe in **diversity, equity, and inclusion**, fostering a collabor
 
 ### Core Research Areas
 
-Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing • Dark Matter & Dark Energy • Modified Gravity • Redshift Estimation • Radio Galaxy Classification & AGN Morphology • RFI Mitigation • High-Energy & Astroparticle Physics • Gamma-Ray Bursts • Astrostatistics & Machine Learning
+Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing • Inflationary Cosmology • Dark Matter & Dark Energy • Modified Gravity • Redshift Estimation • Radio Galaxy Classification & AGN Morphology • RFI Mitigation • High-Energy & Astroparticle Physics • Gamma-Ray Bursts • Astrostatistics & Machine Learning
 
 
 #### Detailed Research Domains
 
 | **Research Domain**                   | **Specific Areas of Focus**                                                                                                                                                                  |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cosmology & Large-Scale Structure** | Dark matter and dark energy • Cosmic microwave background • Galaxy formation and evolution • Structure simulations • Modified gravity theories • Weak gravitational lensing |
+| **Cosmology & Large-Scale Structure** | Dark matter and dark energy • Cosmic microwave background • Inflationary cosmology (early universe physics, primordial perturbations, reheating/preheating) • Galaxy formation and evolution • Structure simulations • Modified gravity theories • Weak gravitational lensing |
 | **High-Energy Astrophysics**          | Black holes and neutron stars • Gamma-ray bursts • X-ray and gravitational wave astronomy • Multi-messenger astronomy                                                                                            |
 | **Stellar Astrophysics**              | Stellar evolution and nucleosynthesis • Binary systems • Stellar atmospheres and spectra • Supernovae • Spectroscopy                    |
 | **Galactic Astronomy**                | Milky Way structure and dynamics • Star formation regions • Interstellar medium                                             |
