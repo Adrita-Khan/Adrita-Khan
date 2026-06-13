@@ -120,7 +120,7 @@ Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing 
 | -------- | ------- | -------- | ----- | ----- |
 | [![Email](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrita.khan.official@gmail.com) | [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/adrita_) | [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/adrita-khan) | ![GIF 1](https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif) | ![GIF 2](https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif) |
 
-<p align="center"> ✏️ Fun fact: <b><i>I love making doodles when I get free time</i></b> 🖍️🎨🖌️</p>
+
 
 ---
 
