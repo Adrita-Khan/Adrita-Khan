@@ -41,7 +41,7 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>🌜 🌠 🔭
 > *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
 > — Dr. Jordan B. Peterson
 
-Greetings, Everyone! I am **Adrita** (আদৃতা), a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**.
+Greetings, Everyone! I am **Adrita** (আদৃতা), a graduate of the *University of Science, Malaysia (USM)*, with a **major in Physics** and a **minor in Astronomy**. I will be joining the **University of Bonn** this winter as an incoming **M.Sc. Astrophysics student**, supported by the **Bonn-Cologne Graduate School (BCGS) Scholarship**.
 
 <p>
   <img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" />
