@@ -61,7 +61,7 @@ Previously:
 
 ## Research Vision
 
-I am actively pursuing **Ph.D.** opportunities within **STEM** fields. My work lies at the intersection of theoretical physics, computational applications, and observational astronomy, incorporating advanced computational methods to gain new insights into astrophysics and bridging the gap between theory and empirical observations.
+I am actively pursuing **Ph.D.** opportunities. My work lies at the intersection of theoretical physics, computational applications, and observational astronomy, incorporating advanced computational methods to gain new insights into astrophysics and bridging the gap between theory and empirical observations.
 
 I'm currently working on multiple projects including Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, and ML Applications in Interdisciplinary Fields.
 
