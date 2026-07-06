@@ -3,7 +3,7 @@ Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 I am <a href="https://adrita-khan.github.io/">Adrita</a>🌜 🌠 🔭
 </h1>
 
-<h3 align="center">PhD Aspirant in Astrophysics & Cosmology</h3>
+<!-- <h3 align="center">PhD Aspirant in Astrophysics & Cosmology</h3> -->
 
 <p align="center">
   <a href="https://adrita-khan.github.io/">
