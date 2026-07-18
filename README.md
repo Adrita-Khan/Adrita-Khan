@@ -62,7 +62,7 @@ Previously:
 ## Research Vision
 
 
-My research interests lie at the intersection of theoretical physics, computational methods, and observational astronomy, using advanced computational techniques to gain new insights into astrophysics and bridge the gap between theory and empirical observations.
+My research interests lie at the intersection of theoretical physics, computational methods, and observational astrophysics, bridging the gap between theory and empirical observations.
 
 I am interested in connecting theoretical predictions with observational probes through computational modelling and data-driven analysis in **computational cosmology, modified gravity, large-scale structure, CMB lensing, galaxy clustering, and statistical inference**. In particular, I am interested in using numerical modelling, emulators, Bayesian inference, and machine learning to test cosmological models beyond the standard ΛCDM paradigm. I am especially interested in developing computational pipelines to model cosmological observables, compare different gravity models, and constrain cosmological parameters using statistical inference.
 
