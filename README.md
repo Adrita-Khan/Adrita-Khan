@@ -32,7 +32,7 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>🌜 🌠 🔭
 
 
 
-# About Me 
+
 
 Greetings, Everyone! I am **Adrita** (আদৃতা), a graduate of the *University of Science, Malaysia*, with a **major in Physics** and a **minor in Astronomy**. I will be joining the *University of Bonn* this winter as an incoming **M.Sc. Astrophysics** student, supported by the **Bonn-Cologne Graduate School (BCGS) Scholarship**.
 
