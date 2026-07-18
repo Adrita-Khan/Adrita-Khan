@@ -63,18 +63,6 @@ Previously:
 
 My work lies at the intersection of **theoretical physics, computational astrophysics, and observational cosmology**. I am interested in connecting theoretical predictions with observational probes through computational modelling and data-driven analysis. My research interests lie in **computational cosmology, modified gravity, large-scale structure, CMB lensing, galaxy clustering, and statistical inference**. I am particularly interested in using numerical modelling, emulators, Bayesian inference, and machine learning to test cosmological models beyond standard ΛCDM.
 
-My current research focus includes:
-
-- Modified gravity models
-- Large-scale structure
-- Galaxy clustering
-- CMB lensing
-- Galaxy–CMB lensing cross-correlations
-- Dark matter and dark energy
-- Weak gravitational lensing
-- Cosmological parameter inference
-- Astrostatistics and machine learning for cosmology
-
 I am especially interested in developing computational pipelines that can model cosmological observables, compare different gravity models, and constrain cosmological parameters using statistical inference.
 
 I strongly believe in **diversity, equity, and inclusion**, and I value collaborative, interdisciplinary, and open scientific research.
