@@ -61,9 +61,10 @@ Previously:
 
 ## Research Vision
 
-My work lies at the intersection of **theoretical physics, computational astrophysics, and observational cosmology**. I am interested in connecting theoretical predictions with observational probes through computational modelling and data-driven analysis. My research interests lie in **computational cosmology, modified gravity, large-scale structure, CMB lensing, galaxy clustering, and statistical inference**. I am particularly interested in using numerical modelling, emulators, Bayesian inference, and machine learning to test cosmological models beyond standard ΛCDM.
 
-I am especially interested in developing computational pipelines that can model cosmological observables, compare different gravity models, and constrain cosmological parameters using statistical inference.
+My research interests lie at the intersection of theoretical physics, computational methods, and observational astronomy, using advanced computational techniques to gain new insights into astrophysics and bridge the gap between theory and empirical observations.
+
+I am interested in connecting theoretical predictions with observational probes through computational modelling and data-driven analysis in **computational cosmology, modified gravity, large-scale structure, CMB lensing, galaxy clustering, and statistical inference**. In particular, I am interested in using numerical modelling, emulators, Bayesian inference, and machine learning to test cosmological models beyond the standard ΛCDM paradigm. I am especially interested in developing computational pipelines to model cosmological observables, compare different gravity models, and constrain cosmological parameters using statistical inference.
 
 I strongly believe in **diversity, equity, and inclusion**, and I value collaborative, interdisciplinary, and open scientific research.
 
