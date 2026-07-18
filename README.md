@@ -61,12 +61,24 @@ Previously:
 
 ## Research Vision
 
-<!--I am actively pursuing **Ph.D.** opportunities. -->
-My work lies at the intersection of theoretical physics, computational applications, and observational astronomy, incorporating advanced computational methods to gain new insights into astrophysics and bridging the gap between theory and empirical observations.
+My work lies at the intersection of **theoretical physics, computational astrophysics, and observational cosmology**. I am interested in connecting theoretical predictions with observational probes through computational modelling and data-driven analysis. My research interests lie in **computational cosmology, modified gravity, large-scale structure, CMB lensing, galaxy clustering, and statistical inference**. I am particularly interested in using numerical modelling, emulators, Bayesian inference, and machine learning to test cosmological models beyond standard ΛCDM.
 
-I'm currently working on multiple projects including Modified Gravity, Particle Jet Tagging, Gamma Ray Burst Redshift Estimation, RFI Detection and Mitigation in Radio Astronomy, Signal Processing, and ML Applications in Interdisciplinary Fields.
+My current research focus includes:
 
-I strongly believe in **diversity, equity, and inclusion**, fostering a collaborative scientific community through impactful research and meaningful collaborations.
+- Modified gravity models
+- Large-scale structure
+- Galaxy clustering
+- CMB lensing
+- Galaxy–CMB lensing cross-correlations
+- Dark matter and dark energy
+- Weak gravitational lensing
+- Cosmological parameter inference
+- Astrostatistics and machine learning for cosmology
+
+I am especially interested in developing computational pipelines that can model cosmological observables, compare different gravity models, and constrain cosmological parameters using statistical inference.
+
+I strongly believe in **diversity, equity, and inclusion**, and I value collaborative, interdisciplinary, and open scientific research.
+
 
 <h1 align="center">
   <a href="https://Adrita-Khan.io">
@@ -79,24 +91,29 @@ I strongly believe in **diversity, equity, and inclusion**, fostering a collabor
 ## Research Interests in Astronomy & Astrophysics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=820&lines=Observational+Cosmology+%26+Large-Scale+Structure;Modified+Gravity+%7C+Cross-Correlation+Analysis;CMB+Lensing+%7C+Angular+Power+Spectra;Galaxy-Galaxy+%26+Galaxy-CMB+Clustering;Photometric+Redshift+Estimation;Gamma-Ray+Bursts+%7C+ML+Redshift+Prediction;Radio+Galaxy+Classification+%26+Morphology;RFI+Mitigation+%7C+Radio+Astronomy;Particle+Jet+Tagging+%7C+High-Energy+Physics;Fisher+Matrix+%7C+MCMC+Parameter+Inference;Weak+Gravitational+Lensing;f(R)+%26+DGP+Gravity+Theories;Machine+Learning+for+Astrophysics;Gaussian+Process+Regression;Deep+Learning+%7C+Neural+Networks;Dark+Matter+%26+Dark+Energy+Constraints" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=900&lines=Theoretical+%26+Observational+Cosmology;Large-Scale+Structure+%7C+Galaxy+Clustering;Dark+Matter+%26+Dark+Energy;Cosmic+Microwave+Background+(CMB);CMB+Lensing+%7C+Weak+Gravitational+Lensing;Galaxy%E2%80%93CMB+Lensing+Cross-Correlations;Modified+Gravity+%7C+Beyond-%CE%9BCDM;f(R)+Gravity+%7C+DGP+Gravity;Cosmological+Parameter+Inference;Bayesian+Inference+%7C+MCMC+Methods;Likelihood+Analysis+%7C+Covariance+Estimation;Computational+Cosmology;Angular+Power+Spectra+%7C+Numerical+Modelling;High-Performance+Computing;Machine+Learning+for+Cosmology;Data-Driven+Cosmological+Inference;Emulator-Based+Modelling;Extragalactic+Cosmology+%7C+Galaxy+Surveys;N-Body+Simulations+%7C+Computational+Astrophysics" alt="Typing SVG" />
 </p>
 
 ### Core Research Areas
 
-Theoretical & Observational Cosmology • Large-Scale Structure • CMB Lensing • Inflationary Cosmology • Dark Matter & Dark Energy • Modified Gravity • Redshift Estimation • Radio Galaxy Classification & AGN Morphology • RFI Mitigation • High-Energy & Astroparticle Physics • Gamma-Ray Bursts • Astrostatistics & Machine Learning
+**Theoretical & Observational Cosmology** • **Large-Scale Structure** • **CMB Lensing** • **Galaxy Clustering** • **Dark Matter & Dark Energy** • **Modified Gravity** • **Weak Gravitational Lensing** • **Cosmological Parameter Inference** • **Astrostatistics & Machine Learning** • **Computational Astrophysics**
+
+---
+
+## Detailed Research Domains
+
+| **Research Domain** | **Specific Areas of Focus** |
+| --- | --- |
+| **Cosmology & Large-Scale Structure** | • Dark Matter • Dark Energy • Cosmic Microwave Background • Galaxy Clustering • Structure Formation • Inflationary Cosmology (Early Universe Physics Primordial Perturbations Reheating/Preheating) |
+| **CMB & Weak Lensing** | • CMB Lensing • Galaxy–CMB Lensing Cross-Correlations • Weak Gravitational Lensing • Cosmological Probes |
+| **Modified Gravity** | • Beyond-ΛCDM Models • f(R) Gravity • DGP Gravity • Phenomenological Gravity Parameters • Model Comparison |
+| **Computational Cosmology** | • Numerical Modelling • Emulators • Angular Power Spectra • High-Performance Computing • Algorithm Development |
+| **Statistical Inference** | • MCMC Methods • Bayesian Inference • Likelihood Analysis • Covariance Estimation • Parameter Constraints |
+| **Machine Learning in Cosmology** | • Redshift Estimation • Emulator-Based Modelling • Data-Driven Cosmological Inference • Neural-Network-Assisted Analysis |
+| **Extragalactic Cosmology** | • Galaxy Surveys • Galaxy Clusters • Galaxy Evolution • Large-Scale Galaxy Distributions |
+| **Computational Astrophysics** | • N-Body Simulations • Magnetohydrodynamics • High-Performance Computing • Algorithm Development |
 
 
-#### Detailed Research Domains
-
-| **Research Domain**                   | **Specific Areas of Focus**                                                                                                                                                                  |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cosmology & Large-Scale Structure** | Dark matter and dark energy • Cosmic microwave background • Inflationary cosmology (early universe physics, primordial perturbations, reheating/preheating) • Galaxy formation and evolution • Structure simulations • Modified gravity theories • Weak gravitational lensing |
-| **High-Energy Astrophysics**          | Black holes and neutron stars • Gamma-ray bursts • X-ray and gravitational wave astronomy • Multi-messenger astronomy                                                                                            |
-| **Stellar Astrophysics**              | Stellar evolution and nucleosynthesis • Stellar atmospheres and spectra • Supernovae • Spectroscopy                    |
-| **Extragalactic Astronomy**           | Active galactic nuclei • Galaxy clusters and groups • Galaxy morphology and evolution • Intergalactic medium                           |
-| **Multiwavelength Astronomy**         | Radio, infrared, optical, and UV observations • Space-based studies • Multi-wavelength surveys                                         |
-| **Computational Astrophysics**        | N-body simulations • Magnetohydrodynamics • Radiative transfer • High-performance computing • Algorithm development • Nuclear & astro-particle physics                              |
 
 ## 📚 Citation Metrics
 
