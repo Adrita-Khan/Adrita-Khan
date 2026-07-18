@@ -34,10 +34,6 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>🌜 🌠 🔭
 
 # About Me 
 
-
-> *"Wish upon a star, and then act properly, in accordance with that aim. Once you are aligned with the heavens, you can concentrate on the day."*  
-> — Dr. Jordan B. Peterson
-
 Greetings, Everyone! I am **Adrita** (আদৃতা), a graduate of the *University of Science, Malaysia*, with a **major in Physics** and a **minor in Astronomy**. I will be joining the *University of Bonn* this winter as an incoming **M.Sc. Astrophysics** student, supported by the **Bonn-Cologne Graduate School (BCGS) Scholarship**.
 
 <p>
@@ -61,10 +57,7 @@ Previously:
 
 ## Research Vision
 
-
-My research interests lie at the intersection of theoretical physics, computational methods, and observational astrophysics, bridging the gap between theory and empirical observations.
-
-I am interested in connecting theoretical predictions with observational probes through computational modelling and data-driven analysis in **computational cosmology, modified gravity, large-scale structure, CMB lensing, galaxy clustering, and statistical inference**. In particular, I am interested in using numerical modelling, emulators, Bayesian inference, and machine learning to test cosmological models beyond the standard ΛCDM paradigm. I am especially interested in developing computational pipelines to model cosmological observables, compare different gravity models, and constrain cosmological parameters using statistical inference.
+My research interests lie at the intersection of theoretical physics, computational methods, and observational astrophysics, bridging the gap between theory and empirical observations. I am interested in connecting theoretical predictions with observational probes through computational modelling, data-driven analysis, and statistical inference in **computational cosmology, modified gravity, large-scale structure, CMB lensing, and galaxy clustering**. In particular, I aim to develop computational pipelines that combine numerical modelling, emulators, Bayesian inference, and machine learning to model cosmological observables, compare gravity models beyond the standard ΛCDM paradigm, and constrain cosmological parameters.
 
 I strongly believe in **diversity, equity, and inclusion**, and I value collaborative, interdisciplinary, and open scientific research.
 
@@ -186,13 +179,3 @@ I strongly believe in **diversity, equity, and inclusion**, and I value collabor
 </div>
 
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=820&lines=The+heavens+declare+the+glory+of+God%3B+the+skies+proclaim+the+work+of+His+hands.;%E2%80%94+Psalm+19%3A1" alt="Typing SVG" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
