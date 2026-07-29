@@ -158,24 +158,6 @@ I strongly believe in **diversity, equity, and inclusion**, and I value collabor
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrita-khan&theme=radical" alt="Profile Details" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrita-khan&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrita-khan&theme=radical" alt="Productive Time" />
-</p>
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=adrita-khan&theme=radical&hide_border=true&background=1a1b27&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00" alt="GitHub Streak" />
 </p>
-
-
-
-<!-- Activity Graph -->
-<div align="center">
-  
-[![Adrita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrita-khan&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=ff8c00&line=ff8c00&point=ffffff)](https://github.com/adrita-khan)
-
-</div>
-
-
