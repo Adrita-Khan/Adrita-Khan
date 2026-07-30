@@ -30,11 +30,8 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>🌜 🌠 🔭
   <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p
 
+Greetings, Everyone! I am **Adrita** (আদৃতা), an incoming **M.Sc. Astrophysics** student at the *University of Bonn*, supported by the **Bonn-Cologne Graduate School (BCGS) Scholarship**, and a graduate of the *Universiti Sains Malaysia*, **majoring in Physics** and **minoring in Astronomy**.
 
-
-
-
-Greetings, Everyone! I am **Adrita** (আদৃতা), a graduate of the *University of Science, Malaysia*, with a **major in Physics** and a **minor in Astronomy**. I will be joining the *University of Bonn* this winter as an incoming **M.Sc. Astrophysics** student, supported by the **Bonn-Cologne Graduate School (BCGS) Scholarship**.
 
 <p>
   <img align="right" src="https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_mrxy31I2kv1qztvpwo2_500.gif" alt="adrita-khan" />
