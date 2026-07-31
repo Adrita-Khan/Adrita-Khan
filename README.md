@@ -6,6 +6,9 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>
 <!-- <h3 align="center">PhD Aspirant in Astrophysics & Cosmology</h3> -->
 
 <p align="center">
+  <a href="mailto:adrita.khan.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://adrita-khan.github.io/">
     <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
@@ -48,18 +51,12 @@ Previously:
 
 ## Research
  
-My work sits at the intersection of theoretical physics, computational methods, and observational astrophysics. I focus on connecting theoretical predictions with observations through statistical inference, numerical modelling, and data-driven analysis.
+My research interests lie at the intersection of theoretical physics, computational methods, and observational astrophysics. I am particularly interested in connecting theoretical predictions with observations through statistical inference, numerical modelling, and data-driven analysis.
  
 **Core areas:** Computational Cosmology · Large-Scale Structure · CMB Lensing · Galaxy Clustering · Dark Matter & Dark Energy · Modified Gravity · Weak Gravitational Lensing · Bayesian/MCMC Inference · Machine Learning for Astrophysics
  
 
 
-
-## Collaboration & Contact 
-
-| 📧 | Twitter |  |  |
-| -------- | ------- | ----- | ----- |
-| [![Email](https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrita.khan.official@gmail.com) | [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/adrita_) | ![GIF 1](https://github.com/Adrita-Khan/Contents-for-Website/blob/main/tumblr_8c9df5ba1a4f823ab221d4c15125d325_187797b1_1280.gif) | ![GIF 2](https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif) |
 
 
 
