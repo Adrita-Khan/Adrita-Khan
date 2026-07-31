@@ -59,46 +59,6 @@ My research interests lie at the intersection of theoretical physics, computatio
 
 
 
-
----
-
-## Tools & Technologies
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-  
-  <!-- Cosmology-specific packages -->
-  <img src="https://img.shields.io/badge/CAMB-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="CAMB">
-  <img src="https://img.shields.io/badge/CLASS-DC143C?style=for-the-badge&logo=c&logoColor=white" alt="CLASS">
-  <img src="https://img.shields.io/badge/CosmoSIS-FF4500?style=for-the-badge&logo=python&logoColor=white" alt="CosmoSIS">
-  <img src="https://img.shields.io/badge/Cobaya-FF6347?style=for-the-badge&logo=python&logoColor=white" alt="Cobaya">
-  <img src="https://img.shields.io/badge/emcee-FFA500?style=for-the-badge&logo=python&logoColor=white" alt="emcee">
-  <img src="https://img.shields.io/badge/GetDist-FFD700?style=for-the-badge&logo=python&logoColor=white" alt="GetDist">
-  <img src="https://img.shields.io/badge/CCL-FFFF00?style=for-the-badge&logo=python&logoColor=black" alt="CCL">
-  <img src="https://img.shields.io/badge/Healpix-32CD32?style=for-the-badge&logo=python&logoColor=white" alt="Healpix">
-  <img src="https://img.shields.io/badge/NaMaster-228B22?style=for-the-badge&logo=python&logoColor=white" alt="NaMaster">
-  
-  <!-- Analysis tools -->
-  <img src="https://img.shields.io/badge/JAX-4682B4?style=for-the-badge&logo=python&logoColor=white" alt="JAX">
-  <img src="https://img.shields.io/badge/NumPyro-1E90FF?style=for-the-badge&logo=python&logoColor=white" alt="NumPyro">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  
-  <!-- Astronomy packages -->
-  <img src="https://img.shields.io/badge/Astropy-FF6B35?style=for-the-badge&logo=python&logoColor=white" alt="Astropy">
-  <img src="https://img.shields.io/badge/Astroquery-E67E22?style=for-the-badge&logo=python&logoColor=white" alt="Astroquery">
-  <img src="https://img.shields.io/badge/Photutils-D35400?style=for-the-badge&logo=python&logoColor=white" alt="Photutils">
-  
-  <!-- General scientific computing -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
-  
-</p>
-
-
-
 ---
 
 ## GitHub Stats
