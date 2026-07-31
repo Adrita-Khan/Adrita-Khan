@@ -1,6 +1,6 @@
 <h1 align="center">
 Greetings, everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">🌞
-I am <a href="https://adrita-khan.github.io/">Adrita</a>🌜 🌠 🔭
+I am <a href="https://adrita-khan.github.io/">Adrita</a>
 </h1>
 
 <!-- <h3 align="center">PhD Aspirant in Astrophysics & Cosmology</h3> -->
@@ -23,11 +23,8 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>🌜 🌠 🔭
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adrita-khan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</p
 
-Greetings, Everyone! I am **Adrita** (আদৃতা), an incoming **M.Sc. Astrophysics** student at the *Rheinische Friedrich‑Wilhelms‑Universität Bonn*, supported by the **Bonn-Cologne Graduate School (BCGS) Scholarship**, and a graduate of the *Universiti Sains Malaysia*, **majoring** in **Physics** and **minoring** in **Astronomy**.
+**Incoming M.Sc. Astrophysics student** at **Rheinische Friedrich-Wilhelms-Universität Bonn**, supported by the **Bonn-Cologne Graduate School (BCGS) Scholarship**. Physics graduate (Astronomy minor) from **Universiti Sains Malaysia**.
 
 
 <p>
@@ -49,45 +46,12 @@ Previously:
 ---
 
 
-## Research Vision
-
-My research interests lie at the intersection of theoretical physics, computational methods, and observational astrophysics. I am interested in connecting theoretical predictions with observational probes through computational modelling, statistical inference, and data-driven analysis, with a particular focus on computational cosmology, modified gravity, large-scale structure, CMB lensing, and galaxy clustering. My goal is to develop computational pipelines that integrate numerical simulations, emulators, Bayesian inference, and machine learning to model cosmological observables, test gravity beyond the standard ΛCDM paradigm, and constrain cosmological parameters.
-
-I strongly believe in **diversity, equity, and inclusion**, and I value collaborative, interdisciplinary, and open scientific research.
-
-
-<h1 align="center">
-  <a href="https://Adrita-Khan.io">
-    <img src="https://github.com/Adrita-Khan/Assets/blob/main/host/antonia%20maury%20stars%20GIF%20by%20AstroChat.gif" alt="MasterHead" />
-  </a>
-</h1>
-
----
-
-## Research Interests in Astronomy & Astrophysics
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=900&lines=Theoretical+%26+Observational+Cosmology;Large-Scale+Structure+%7C+Galaxy+Clustering;Dark+Matter+%26+Dark+Energy;Cosmic+Microwave+Background+(CMB);CMB+Lensing+%7C+Weak+Gravitational+Lensing;Galaxy%E2%80%93CMB+Lensing+Cross-Correlations;Modified+Gravity+%7C+Beyond-%CE%9BCDM;f(R)+Gravity+%7C+DGP+Gravity;Cosmological+Parameter+Inference;Bayesian+Inference+%7C+MCMC+Methods;Likelihood+Analysis+%7C+Covariance+Estimation;Computational+Cosmology;Angular+Power+Spectra+%7C+Numerical+Modelling;High-Performance+Computing;Machine+Learning+for+Cosmology;Data-Driven+Cosmological+Inference;Emulator-Based+Modelling;Extragalactic+Cosmology+%7C+Galaxy+Surveys;N-Body+Simulations+%7C+Computational+Astrophysics" alt="Typing SVG" />
-</p>
-
-### Core Research Areas
-
-**Theoretical & Observational Cosmology** • **Large-Scale Structure** • **CMB Lensing** • **Galaxy Clustering** • **Dark Matter & Dark Energy** • **Modified Gravity** • **Weak Gravitational Lensing** • **Cosmological Parameter Inference** • **Astrostatistics & Machine Learning** • **Computational Astrophysics**
-
----
-
-## Detailed Research Domains
-
-| **Research Domain** | **Specific Areas of Focus** |
-| --- | --- |
-| **Cosmology & Large-Scale Structure** | • Dark Matter • Dark Energy • Cosmic Microwave Background • Galaxy Clustering • Structure Formation • Inflationary Cosmology (Early Universe Physics Primordial Perturbations Reheating/Preheating) |
-| **CMB & Weak Lensing** | • CMB Lensing • Galaxy–CMB Lensing Cross-Correlations • Weak Gravitational Lensing • Cosmological Probes |
-| **Modified Gravity** | • Beyond-ΛCDM Models • f(R) Gravity • DGP Gravity • Phenomenological Gravity Parameters • Model Comparison |
-| **Computational Cosmology** | • Numerical Modelling • Emulators • Angular Power Spectra • High-Performance Computing • Algorithm Development |
-| **Statistical Inference** | • MCMC Methods • Bayesian Inference • Likelihood Analysis • Covariance Estimation • Parameter Constraints |
-| **Machine Learning in Cosmology** | • Redshift Estimation • Emulator-Based Modelling • Data-Driven Cosmological Inference • Neural-Network-Assisted Analysis |
-| **Extragalactic Cosmology** | • Galaxy Surveys • Galaxy Clusters • Galaxy Evolution • Large-Scale Galaxy Distributions |
-| **Computational Astrophysics** | • N-Body Simulations • Magnetohydrodynamics • High-Performance Computing • Algorithm Development |
+## Research
+ 
+My work sits at the intersection of theoretical physics, computational methods, and observational astrophysics. I focus on connecting theoretical predictions with observations through statistical inference, numerical modelling, and data-driven analysis.
+ 
+**Core areas:** Computational Cosmology · Large-Scale Structure · CMB Lensing · Galaxy Clustering · Dark Matter & Dark Energy · Modified Gravity · Weak Gravitational Lensing · Bayesian/MCMC Inference · Machine Learning for Astrophysics
+ 
 
 
 
