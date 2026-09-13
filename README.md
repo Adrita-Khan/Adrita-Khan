@@ -27,7 +27,7 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>
 </p>
 
 
-**Incoming M.Sc. Astrophysics student** at **Rheinische Friedrich-Wilhelms-Universität Bonn**, supported by the **Bonn-Cologne Graduate School (BCGS) Scholarship**. Physics graduate (Astronomy minor) from **Universiti Sains Malaysia**.
+Incoming **M.Sc. Astrophysics** student at the **University of Bonn**, supported by the **Bonn-Cologne Graduate School (BCGS)** Scholarship. Physics graduate (major), minor in Astronomy, from the **University of Science, Malaysia**.
 
 
 <p>
@@ -37,7 +37,6 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>
 Currently:  
 
 > - Full-time Research Assistant **(employed)** at the [**Center for Computational and Data Sciences (CCDS), Computational Physics & Astronomy (ComPAs) Wing**](https://ccds.ai/people/adrita-khan), Independent University, Bangladesh
-
 
 Previously: 
 > - Remote Research Collaborator at the **Centre for Astro-Particle Physics (CAPP)**, University of Johannesburg, South Africa
