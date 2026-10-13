@@ -27,7 +27,7 @@ I am <a href="https://adrita-khan.github.io/">Adrita</a>
 </p>
 
 
-Incoming **M.Sc. Astrophysics** student at the **University of Bonn**, supported by the **Bonn-Cologne Graduate School (BCGS)** Scholarship. Physics graduate (major), minor in Astronomy, from the **University of Science, Malaysia**.
+**M.Sc. Astrophysics** student at the **University of Bonn**, supported by the **Bonn-Cologne Graduate School (BCGS)** Scholarship. Physics graduate (major), minor in Astronomy, from the **University of Science, Malaysia**.
 
 
 <p>
